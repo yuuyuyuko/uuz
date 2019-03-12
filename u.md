@@ -1,7 +1,7 @@
 [![](https://www.z4a.net/images/2018/08/01/u.png)]()
 
-[TSDM2018](https://yuuyuyuko.github.io/uuz/tsdm2018)  
-[TSDM2019](https://yuuyuyuko.github.io/uuz/tsdm2019)
+[TSDM2018](https://github.com/yuuyuyuko/uuz/edit/master/tsdm2018.md)  
+[TSDM2019](https://github.com/yuuyuyuko/uuz/edit/master/tsdm2019.md)
 
 進行中賽事
 - 0 [测试用赛事](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
