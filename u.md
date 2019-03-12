@@ -1,6 +1,6 @@
 [![](https://www.z4a.net/images/2018/08/01/u.png)]()
 
-[TSDM2018](https://yuuyuyuko.github.io/uuz/tsdm2018))  
+[TSDM2018](https://yuuyuyuko.github.io/uuz/tsdm2018)  
 [TSDM2019](https://yuuyuyuko.github.io/uuz/tsdm2019)
 
 進行中賽事
