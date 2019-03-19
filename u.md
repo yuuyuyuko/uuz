@@ -10,6 +10,7 @@
 - 37 [【雀魂聯賽】花鳥風月盃](https://mahjong.pub/admin.php?cid=37&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=37#!class) [統計](https://mahjong.pub/?cid=37#!ranking)
 - 40 [雀魂二級聯賽-風花雪月盃](https://mahjong.pub/admin.php?cid=40&amp;c_pw=fhxy) [分組](https://mahjong.pub/?cid=40#!class) [統計](https://mahjong.pub/?cid=40#!ranking)
     - 3005 [萌間](https://mahjong.pub/team.htm?t_pw=3ievgia=WXm3vW3u3OR3eA)
+- 44 [第二屆芳文盃](https://mahjong.pub/admin.php?cid=44&c_pw=fwb2fwb) [分組](https://mahjong.pub/?cid=44#!class) [統計](https://mahjong.pub/?cid=44#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
