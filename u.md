@@ -11,6 +11,15 @@
 - 40 [雀魂二級聯賽-風花雪月盃](https://mahjong.pub/admin.php?cid=40&amp;c_pw=fhxy) [分組](https://mahjong.pub/?cid=40#!class) [統計](https://mahjong.pub/?cid=40#!ranking)
     - 3005 [萌間](https://mahjong.pub/team.htm?t_pw=3ievgia=WXm3vW3u3OR3eA)
 - 44 [第二屆芳文盃](https://mahjong.pub/admin.php?cid=44&c_pw=fwb2fwb) [分組](https://mahjong.pub/?cid=44#!class) [統計](https://mahjong.pub/?cid=44#!ranking)
+    - 3251 [白玉樓](https://mahjong.pub/team.htm?t_pw=2qhwleLfpZuqOVizWYODxu)
+    - 3252 [少女祈禱中/亡霊](https://mahjong.pub/team.htm?t_pw=1UD81Amk6OIwgojqZ8m7XP)
+    - 3253 [美少女永不缺席](https://mahjong.pub/team.htm?t_pw=0MzrnpcjsiCpLcWsHmW6do)
+    - 3254 [死肥宅天生要涼](https://mahjong.pub/team.htm?t_pw=2ra4rbz@wnh4q4sai1rOYN)
+    - 3255 [TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=1qwVtsUwxVklfZVL@iP8Ns)
+    - 3256 [5533观光旅游团](https://mahjong.pub/team.htm?t_pw=2ZvnJzpA364JKqfNGmhCgj)
+    - 3257 [鍋鍋的女裝](https://mahjong.pub/team.htm?t_pw=0vakwiXdly2uUwc0t8Hl00)
+    - 3258 [醬油鋪](https://mahjong.pub/team.htm?t_pw=3Hrk@HjisbYmz0KxgYn7v8)
+    - 3259 [全國高校聯賽幕後黑手隊](https://mahjong.pub/team.htm?t_pw=1ilrwUB00cyN7O@pxc91a6)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
