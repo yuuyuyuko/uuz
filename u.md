@@ -20,6 +20,7 @@
     - 3257 [鍋鍋的女裝](https://mahjong.pub/team.htm?t_pw=0vakwiXdly2uUwc0t8Hl00)
     - 3258 [醬油鋪](https://mahjong.pub/team.htm?t_pw=3Hrk@HjisbYmz0KxgYn7v8)
     - 3259 [全國高校聯賽幕後黑手隊](https://mahjong.pub/team.htm?t_pw=1ilrwUB00cyN7O@pxc91a6)
+    - 3260[『斑鸠雀庄』苦力隊](https://mahjong.pub/team.htm?t_pw=01VEBc4QudBooFJxCnYkFa)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
