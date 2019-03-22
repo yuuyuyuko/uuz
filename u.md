@@ -1,7 +1,7 @@
 [![](https://www.z4a.net/images/2018/08/01/u.png)]()
 
 >[TSDM2018](tsdm2018.md)  
->[TSDM2019](tsdm2019.md)
+>[TSDM2019](tsdm2019.md)  
 >[御宅茶会](yzch.md)
 
 進行中賽事
