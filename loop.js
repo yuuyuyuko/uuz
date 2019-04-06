@@ -147,6 +147,6 @@ function stck() {
 
 function check_list() {
     document.getElementById("sp_set").click();
-    setTimeout("document.getElementById('sp_st').click()", .5 * 1000);
-    setTimeout("stck()", 1000);
+    setTimeout("document.getElementById('sp_st').click()", 1000);
+    setTimeout("stck()", .5 * 1000);
 }
