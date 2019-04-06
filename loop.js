@@ -100,10 +100,10 @@ function loop_start() {
     }
 
     document.getElementById("sp_set").click();
-    setTimeout("document.getElementById('sp_st').click()", 1000);
+    setTimeout("document.getElementById('sp_st').click()", .5 * 1000);
     window.loopcnt = 0;
 
-    window.loop = setInterval(check_list, 10000);
+    window.loop = setInterval(check_list, 5 * 1000);
     e = document.getElementById("btn");
     e.setAttribute("onclick", "loop_stop()");
     e.value = "停止循环";
