@@ -136,17 +136,17 @@ function stck() {
     }
     if (pcnt >= 4) {
         document.getElementById("sbt_1").click();
-        setTimeout("document.getElementById('sbt_2').click()", 1000);
-        setTimeout("document.getElementById('sbt_3').click()", 2000);
-        setTimeout("document.getElementById('sbt_4').click()", 3000);
-        setTimeout("document.getElementById('btn_rand').click()", 4000);
-        setTimeout("document.getElementById('btn_st').click()", 5000);
+        setTimeout("document.getElementById('sbt_2').click()", .5 * 1000);
+        setTimeout("document.getElementById('sbt_3').click()", 1000);
+        setTimeout("document.getElementById('sbt_4').click()", 1.5 * 1000);
+        setTimeout("document.getElementById('btn_rand').click()", 2 * 1000);
+        setTimeout("document.getElementById('btn_st').click()", 2.5 * 1000);
     }
     document.getElementById("lcnt").innerText = window.loopcnt;
 }
 
 function check_list() {
     document.getElementById("sp_set").click();
-    setTimeout("document.getElementById('sp_st').click()", 1000);
-    setTimeout("stck()", 2000);
+    setTimeout("document.getElementById('sp_st').click()", .5 * 1000);
+    setTimeout("stck()", 1000);
 }
