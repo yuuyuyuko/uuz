@@ -26,8 +26,10 @@
     - 3258 [醬油鋪](https://mahjong.pub/team.htm?t_pw=3Hrk@HjisbYmz0KxgYn7v8)
     - 3259 [全國高校聯賽幕後黑手隊](https://mahjong.pub/team.htm?t_pw=1ilrwUB00cyN7O@pxc91a6)
     - 3260[『斑鸠雀庄』苦力隊](https://mahjong.pub/team.htm?t_pw=01VEBc4QudBooFJxCnYkFa)
+- 46 [东方杯M2麻将比赛](https://mahjong.pub/admin.php?cid=46&c_pw=dfbm2) [分組](https://mahjong.pub/?cid=46#!class) [統計](https://mahjong.pub/?cid=46#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
 - 36 [英年盃雙旦麻將賽](https://mahjong.pub/admin.php?cid=36&amp;c_pw=ynbynbnb) [分組](https://mahjong.pub/?cid=36#!class) [統計](https://mahjong.pub/?cid=36#!ranking)
 - 41 [第一屆大河盃](https://mahjong.pub/admin.php?cid=41&amp;c_pw=dhdhd) [分組](https://mahjong.pub/?cid=41#!class) [統計](https://mahjong.pub/?cid=41#!ranking)
+- 45 [千里群青争霸赛](https://mahjong.pub/admin.php?cid=45&amp;c_pw=qlsqls) [分組](https://mahjong.pub/?cid=45#!class) [統計](https://mahjong.pub/?cid=45#!ranking)
