@@ -60,7 +60,7 @@ async function tenhou_log() {
     var tmparr = [];
     tmparr = x[i].innerText.split(/\s+/g);
     outstr +=
-      "L0000 | 00:00 | 四般南喰赤 | " +
+      //"L0000 | 00:00 | 四般南喰赤 | " +
       tmparr[3] +
       "(" +
       parseFloat(tmparr[4]) +
