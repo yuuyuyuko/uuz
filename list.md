@@ -2,7 +2,7 @@
 >[TSDM歷屆隊員名單](https://yuuyuyuko.github.io/uuz/list)  
 >[TSDM2018學年 戰績表](https://yuuyuyuko.github.io/uuz/tsdm2018)  
 >[TSDM2019學年 戰績表](https://yuuyuyuko.github.io/uuz/tsdm2019)  
->[萌間](https://yuuyuyuko.github.io/uuz/mj)  
+>[萌間](https://yuuyuyuko.github.io/uuz/moe)  
 
 ### 2018 上學年隊伍
 
