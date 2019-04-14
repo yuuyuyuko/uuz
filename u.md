@@ -5,7 +5,6 @@
 >[TSDM2019](tsdm2019.md)  
 >[萌間](moe.md)  
 >[御宅茶会](yzch.md)  
->[友誼賽](yys.md)
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
