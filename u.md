@@ -14,7 +14,7 @@
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
    - 3172 [萌間](https://mahjong.pub/team.htm?t_pw=3wlAlSPl1m0N4cFN5T@DzA)
    - 3239 [梓川女子](https://mahjong.pub/team.htm?t_pw=1qey9O10wPRkb3oBSlUeEt)
-- 37 [【雀魂聯賽】花鳥風月盃](https://mahjong.pub/admin.php?cid=37&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=37#!class) [統計](https://mahjong.pub/?cid=37#!ranking)
+- 37 [【雀魂聯賽】花鳥風月盃](https://mahjong.pub/admin.php?cid=47&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=47#!class) [統計](https://mahjong.pub/?cid=47#!ranking)
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yysyys) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
 - 40 [雀魂二級聯賽-風花雪月盃](https://mahjong.pub/admin.php?cid=40&amp;c_pw=fhxy) [分組](https://mahjong.pub/?cid=40#!class) [統計](https://mahjong.pub/?cid=40#!ranking)
     - 3005 [萌間](https://mahjong.pub/team.htm?t_pw=3ievgia=WXm3vW3u3OR3eA)
@@ -34,5 +34,6 @@
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
 - 36 [英年盃雙旦麻將賽](https://mahjong.pub/admin.php?cid=36&amp;c_pw=ynbynbnb) [分組](https://mahjong.pub/?cid=36#!class) [統計](https://mahjong.pub/?cid=36#!ranking)
+- 37 [【雀魂聯賽】花鳥風月盃](https://mahjong.pub/admin.php?cid=37&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=37#!class) [統計](https://mahjong.pub/?cid=37#!ranking)
 - 41 [第一屆大河盃](https://mahjong.pub/admin.php?cid=41&amp;c_pw=dhdhd) [分組](https://mahjong.pub/?cid=41#!class) [統計](https://mahjong.pub/?cid=41#!ranking)
 - 45 [千里群青争霸赛](https://mahjong.pub/admin.php?cid=45&amp;c_pw=qlsqls) [分組](https://mahjong.pub/?cid=45#!class) [統計](https://mahjong.pub/?cid=45#!ranking)
