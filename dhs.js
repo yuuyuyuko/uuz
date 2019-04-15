@@ -188,7 +188,7 @@ if (
 
 function loop() {
   var e = document.createElement('script');
-  e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js');
+  e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/loopjs');
   document.body.appendChild(e);
 }
 
