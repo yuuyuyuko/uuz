@@ -188,7 +188,7 @@ if (
 
 function loop() {
   var e = document.createElement('script');
-  e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/loopjs');
+  e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/loop.js');
   document.body.appendChild(e);
 }
 
