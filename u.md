@@ -4,7 +4,11 @@
 >[TSDM2018](tsdm2018.md)  
 >[TSDM2019](tsdm2019.md)  
 >[萌間](moe.md)  
->[御宅茶会](yzch.md)  
+
+常用鏈接
+[雀魂](https://majsoul.union-game.com/#/)  
+[滿4人即開腳本](javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/loop.js'); document.body.appendChild(e);})());)  
+[大會比賽場腳本](javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://lietxia.github.io/maj/dhs.js'); document.body.appendChild(e);})());)  
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
