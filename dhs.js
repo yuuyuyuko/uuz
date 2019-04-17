@@ -635,8 +635,6 @@ async function send_data() {
   box.appendChild(new_form);
 } //func
 
-e[0] = document.createElement('script');
-e[0].setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js');
 setTimeout(function() {
     onkeyup = function() {
         if (event.keyCode === 49 || event.keyCode === 97) {
