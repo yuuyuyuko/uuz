@@ -636,9 +636,6 @@ async function send_data() {
 } //func
 
 if (document.URL === 'https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt') {
-    var obj = document.createElement('script');
-    obj.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js');
-    document.body.appendChild(obj);
     setTimeout(function() {
         onkeyup = function() {
             if (event.keyCode === 49 || event.keyCode === 97) {
