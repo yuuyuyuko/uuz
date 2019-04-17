@@ -190,6 +190,22 @@ function loop() {
   var e = document.createElement('script');
   e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/loop.js');
   document.body.appendChild(e);
+  setTimeout(function() {
+      onkeyup = function() {
+          if (event.keyCode === 49 || event.keyCode === 97) {
+              document.getElementById('cid').value = 47;
+              document.getElementById('c_round').value = 1;
+              document.getElementById('c_pw').value = 'hnfy';
+              init_all();
+          }
+          if (event.keyCode === 50 || event.keyCode === 98) {
+              document.getElementById('cid').value = 48;
+              document.getElementById('c_round').value = 1;
+              document.getElementById('c_pw').value = 'fhxy';
+              init_all();
+          }
+      };
+  }, .5 * 1000);
 }
 
 function page_change() {
