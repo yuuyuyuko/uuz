@@ -635,38 +635,21 @@ async function send_data() {
   box.appendChild(new_form);
 } //func
 
-/*
-players_start(['光靈聖鬼','星星消消看','',''],[25000,25000,25000,25000])
-add_player('xxx\ndasdfasd');
-get_table('2018-12-15');
-
-function unique(arr){
-    var res=[];
-    for(var i=0,len=arr.length;i<len;i++){
-        var obj = arr[i];
-        for(var j=0,jlen = res.length;j<jlen;j++){
-            if(res[j]===obj) break;
+e[0] = document.createElement('script');
+e[0].setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js');
+setTimeout(function() {
+    onkeyup = function() {
+        if (event.keyCode === 49 || event.keyCode === 97) {
+            document.getElementById('cid').value = 47;
+            document.getElementById('c_round').value = 1;
+            document.getElementById('c_pw').value = 'hnfy';
+            init_all();
         }
-        if(jlen===j)res.push(obj);
-    }
-    return res;
-}
-
-(function () {
-    var results, currentWindow,
-    // create an iframe and append to body to load a clean window object
-    iframe = document.createElement('iframe');
-    iframe.style.display = 'none';
-    document.body.appendChild(iframe);
-    // get the current list of properties on window
-    currentWindow = Object.getOwnPropertyNames(window);
-    // filter the list against the properties that exist in the clean window
-    results = currentWindow.filter(function(prop) {
-        return !iframe.contentWindow.hasOwnProperty(prop);
-    });
-    // log an array of properties that are different
-    console.log(results);
-    document.body.removeChild(iframe);
-}());
-
-*/
+        if (event.keyCode === 50 || event.keyCode === 98) {
+            document.getElementById('cid').value = 48;
+            document.getElementById('c_round').value = 1;
+            document.getElementById('c_pw').value = 'fhxy';
+            init_all();
+        }
+    };
+}, .5 * 1000);
