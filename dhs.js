@@ -634,3 +634,25 @@ async function send_data() {
 
   box.appendChild(new_form);
 } //func
+
+if (document.URL === 'https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt') {
+    var obj = document.createElement('script');
+    obj.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js');
+    document.body.appendChild(obj);
+    setTimeout(function() {
+        onkeyup = function() {
+            if (event.keyCode === 49 || event.keyCode === 97) {
+                document.getElementById('cid').value = 47;
+                document.getElementById('c_round').value = 1;
+                document.getElementById('c_pw').value = 'hnfy';
+                init_all();
+            }
+            if (event.keyCode === 50 || event.keyCode === 98) {
+                document.getElementById('cid').value = 48;
+                document.getElementById('c_round').value = 1;
+                document.getElementById('c_pw').value = 'fhxy';
+                init_all();
+            }
+        };
+    }, .5 * 1000);
+}
