@@ -634,3 +634,57 @@ async function send_data() {
 
   box.appendChild(new_form);
 } //func
+
+function loop_start() {
+  var _span_ = document.getElementsByTagName("span");
+  for (var i = 0; i < _span_.length; i++) {
+    if (_span_[i].innerText === "对局管理") {
+      _span_[i].setAttribute("id", "sp_st");
+    }
+    if (_span_[i].innerText === "赛事设定") {
+      _span_[i].setAttribute("id", "sp_set");
+    }
+  }
+  if (
+    document.getElementById("sp_set") == null ||
+    document.getElementById("sp_set") == ""
+  ) {
+    return alert("请进入开比赛的页面执行此脚本");
+  }
+
+  document.getElementById("sp_set").click();
+  setTimeout("document.getElementById('sp_st').click()", 500);
+
+  window.loop = setInterval(check_list, 5000);
+}
+
+function stck() {
+  var pcnt = 0;
+  var _span_ = document.getElementsByTagName("span");
+  for (var i = 0; i < _span_.length; i++) {
+    if (_span_[i].innerText === "准备开始") {
+      pcnt++;
+      _span_[i].parentNode.setAttribute("id", "sbt_" + pcnt);
+    }
+    if (_span_[i].innerText === "对局开始") {
+      _span_[i].parentNode.setAttribute("id", "btn_st");
+    }
+    if (_span_[i].innerText === "随机坐席（后台）") {
+      _span_[i].parentNode.setAttribute("id", "btn_rand");
+    }
+  }
+  if (pcnt >= 4) {
+    document.getElementById("sbt_1").click();
+    setTimeout("document.getElementById('sbt_2').click()", 500);
+    setTimeout("document.getElementById('sbt_3').click()", 1000);
+    setTimeout("document.getElementById('sbt_4').click()", 1500);
+    setTimeout("document.getElementById('btn_rand').click()", 2000);
+    setTimeout("document.getElementById('btn_st').click()", 2500);
+  }
+}
+
+function check_list() {
+  document.getElementById("sp_set").click();
+  setTimeout("document.getElementById('sp_st').click()", 500);
+  setTimeout("stck()", 1000);
+}
