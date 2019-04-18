@@ -150,3 +150,5 @@ function check_list() {
   setTimeout("document.getElementById('sp_st').click()", 500);
   setTimeout("stck()", 1000);
 }
+
+loop_start();
