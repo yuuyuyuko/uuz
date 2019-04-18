@@ -190,9 +190,6 @@ function loop() {
   var e = document.createElement('script');
   e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/loop.js');
   document.body.appendChild(e);
-  setTimeout(function() {
-    loop_start();
-  }, .5 * 1000);
 }
 
 function page_change() {
