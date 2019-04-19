@@ -2,7 +2,7 @@ if (
   window.location.host != "majsoul.union-game.com" ||
   window.location.pathname != "/0/v0.4.1.w/user_xieyi/1.txt"
 ) {
-  alert("书签脚本用法：在任意地方运行一次此脚本，他会转向一个文本\n【注意】然后再运行一次此脚本");
+  alert("書籤腳本用法：在任意地方運行一次此腳本，他會轉向一個文本\n【注意】然後再運行一次此腳本");
   window.location.href =
     "https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt";
 } else {
@@ -45,8 +45,8 @@ if (
   };
   document.body.appendChild(x);
 
-  //创建工具栏
-  //样式表
+  //創建工具欄
+  //樣式表
   function create_toolbox() {
     var style = document.createElement("style");
     style.type = "text/css";
@@ -67,7 +67,7 @@ if (
 
     var new_lable = document.createElement("lable");
     new_lable.setAttribute("for", "cid");
-    new_lable.innerText = "赛事ID:";
+    new_lable.innerText = "賽事ID:";
     new_div.appendChild(new_lable);
     var new_ipt = document.createElement("input");
     new_ipt.setAttribute("size", "2");
@@ -113,7 +113,7 @@ if (
 
     var new_lable = document.createElement("lable");
     new_lable.setAttribute("for", "c_pw");
-    new_lable.innerText = "赛事密码";
+    new_lable.innerText = "賽事密碼";
     new_div.appendChild(new_lable);
     var new_ipt = document.createElement("input");
     new_ipt.setAttribute("type", "password");
@@ -132,19 +132,19 @@ if (
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
     new_btn.setAttribute("onclick", "init_list()");
-    new_btn.setAttribute("value", "获取成员列表");
+    new_btn.setAttribute("value", "獲取成員列表");
     div_tools.appendChild(new_btn);
 
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
     new_btn.setAttribute("onclick", "init_start()");
-    new_btn.setAttribute("value", "开始某个组");
+    new_btn.setAttribute("value", "開始某個組");
     div_tools.appendChild(new_btn);
 
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
     new_btn.setAttribute("onclick", "send_data()");
-    new_btn.setAttribute("value", "读取牌谱");
+    new_btn.setAttribute("value", "讀取牌譜");
     div_tools.appendChild(new_btn);
 
     var new_btn = document.createElement("input");
@@ -156,17 +156,18 @@ if (
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
     new_btn.setAttribute("onclick", "init_all()");
-    new_btn.setAttribute("value", "重载数据");
+    new_btn.setAttribute("value", "重載數據");
     div_tools.appendChild(new_btn);
 
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
     new_btn.setAttribute("onclick", "page_change()");
-    new_btn.setAttribute("value", "切换页面");
+    new_btn.setAttribute("value", "切換頁面");
     div_tools.appendChild(new_btn);
     
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
+    new_btn.setAttribute("id", "loop");
     new_btn.setAttribute("onclick", "loop_start()");
     new_btn.setAttribute("value", "滿四人即開");
     div_tools.appendChild(new_btn);
@@ -202,7 +203,7 @@ function page_change() {
 }
 
 
-//----init类---
+//----init類---
 function init_all() {
   window.team = 1;
   window.cls = 1;
@@ -236,7 +237,7 @@ function init_miss() {
 }
 
 function init_list() {
-  //添加一些成员
+  //添加一些成員
   var box = document.getElementById("box");
   box.innerHTML = "";
 
@@ -272,7 +273,7 @@ function init_list() {
   var new_btn = document.createElement("input");
   new_btn.setAttribute("type", "button");
   new_btn.setAttribute("onclick", "add_player()");
-  new_btn.setAttribute("value", "加入参赛名单");
+  new_btn.setAttribute("value", "加入參賽名單");
   box.appendChild(new_btn);
 
   return res;
@@ -292,7 +293,7 @@ function init_start() {
   var new_btn = document.createElement("input");
   new_btn.setAttribute("type", "button");
   new_btn.setAttribute("onclick", "start_class()");
-  new_btn.setAttribute("value", "开始");
+  new_btn.setAttribute("value", "開始");
   box.appendChild(new_btn);
 
   box.appendChild(document.createElement("br"));
@@ -316,7 +317,7 @@ function init_start() {
     );
   }
   if (window.cls === null) {
-    return alert("此赛事还没分组，或读取分组失败，请按【重载数据】");
+    return alert("此賽事還沒分組，或讀取分組失敗，請按【重載數據】");
   }
   var cls_count = 0;
   window.this_round = [];
@@ -339,7 +340,7 @@ function init_start() {
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
     new_btn.setAttribute("onclick", "get_cls(" + i + ")");
-    new_btn.setAttribute("value", i + "组");
+    new_btn.setAttribute("value", i + "組");
     new_btn.setAttribute("id", "btn_start_" + i);
     box.appendChild(new_btn);
   }
@@ -369,12 +370,12 @@ function get_json(url) {
 }
 
 function sleep(ms) {
-  //暂停
+  //暫停
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 function set_value(type, txt) {
-  //设置值
+  //設置值
   var last = window.ee.length - 1;
   window.ee[last][type] = txt;
   window.pp[last].updater.enqueueSetState(
@@ -395,7 +396,7 @@ function get_cls(cls) {
     encodeURI(window.c_admin.t_type)
   );
   if (arr === null || arr === "") {
-    return alert("获取第" + cls + "组开赛名单失败");
+    return alert("獲取第" + cls + "組開賽名單失敗");
   }
   if (arr[0] == "2") {
     return alert(arr[1]);
@@ -413,8 +414,8 @@ async function add_player(str) {
     )
     .click();
   await sleep(2000);
-  window.ee = []; //重设缓存
-  window.pp = []; //重设缓存
+  window.ee = []; //重設緩存
+  window.pp = []; //重設緩存
   document
     .querySelector(
       "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(2)"
@@ -465,8 +466,8 @@ async function start_class() {
     )
     .click();
   await sleep(3000);
-  window.ee = []; //重设缓存
-  window.pp = []; //重设缓存
+  window.ee = []; //重設緩存
+  window.pp = []; //重設緩存
   document
     .querySelector(
       "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(3)"
@@ -535,7 +536,7 @@ async function start_class() {
       .click();
     await sleep(1000);
     //document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
-    alert("信息已填好，请点击开始");
+    alert("信息已填好，請點擊開始");
   }
 }
 
@@ -548,9 +549,9 @@ async function send_data() {
     )
     .click();
   await sleep(3000);
-  window.ee = []; //重设缓存
-  window.pp = []; //重设缓存
-  window.tb = []; //重设缓存
+  window.ee = []; //重設緩存
+  window.pp = []; //重設緩存
+  window.tb = []; //重設緩存
 
   document
     .querySelector(
@@ -600,7 +601,7 @@ async function send_data() {
 
   var new_btn = document.createElement("input");
   new_btn.setAttribute("type", "submit");
-  new_btn.setAttribute("value", "发送");
+  new_btn.setAttribute("value", "發送");
   new_form.appendChild(new_btn);
 
   var new_btn = document.createElement("input");
@@ -650,6 +651,13 @@ function loop_start() {
   setTimeout("document.getElementById('sp_st').click()", 500);
 
   window.loop = setInterval(check_list, 5000);
+}
+
+function loop_stop() {
+  clearInterval(window.loop);
+  e = document.getElementById("loop");
+  e.value = "停止";
+  e.setAttribute("onclick", "loop_start()");
 }
 
 function stck() {
