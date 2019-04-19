@@ -652,7 +652,7 @@ function loop_start() {
 
   window.loop = setInterval(check_list, 5000);
   e = document.getElementById("loop");
-  e.value = "停止循環";
+  e.value = "退出循環";
   e.setAttribute("onclick", "loop_stop()");
 }
 
