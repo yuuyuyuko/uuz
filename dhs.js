@@ -651,12 +651,15 @@ function loop_start() {
   setTimeout("document.getElementById('sp_st').click()", 500);
 
   window.loop = setInterval(check_list, 5000);
+  e = document.getElementById("btn");
+  e.setAttribute("onclick", "loop_stop()");
+  e.value = "停止循環";
 }
 
 function loop_stop() {
   clearInterval(window.loop);
   e = document.getElementById("loop");
-  e.value = "停止";
+  e.value = "滿四人即開";
   e.setAttribute("onclick", "loop_start()");
 }
 
