@@ -644,7 +644,7 @@ function loop_start() {
     document.getElementById("sp_set") == null ||
     document.getElementById("sp_set") == ""
   ) {
-    return alert("请进入开比赛的页面执行此脚本");
+    return alert("請進入開比賽的頁面執行此腳本");
   }
 
   document.getElementById("sp_set").click();
