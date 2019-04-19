@@ -651,7 +651,7 @@ function loop_start() {
   setTimeout("document.getElementById('sp_st').click()", 500);
 
   window.loop = setInterval(check_list, 5000);
-  e = document.getElementById("btn");
+  e = document.getElementById("loop");
   e.setAttribute("onclick", "loop_stop()");
   e.value = "停止循環";
 }
