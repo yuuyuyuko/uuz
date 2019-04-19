@@ -167,7 +167,6 @@ if (
     
     var new_btn = document.createElement("input");
     new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("id", "loop");
     new_btn.setAttribute("onclick", "loop_start()");
     new_btn.setAttribute("value", "滿四人即開");
     div_tools.appendChild(new_btn);
@@ -652,8 +651,8 @@ function loop_start() {
 
   window.loop = setInterval(check_list, 5000);
   e = document.getElementById("loop");
-  e.setAttribute("onclick", "loop_stop()");
   e.value = "停止循環";
+  e.setAttribute("onclick", "loop_stop()");
 }
 
 function loop_stop() {
