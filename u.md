@@ -29,7 +29,6 @@
     - 3260[『斑鸠雀庄』苦力隊](https://mahjong.pub/team.htm?t_pw=01VEBc4QudBooFJxCnYkFa)
 - 46 [东方杯M2麻将比赛](https://mahjong.pub/admin.php?cid=46&c_pw=dfbm2) [分組](https://mahjong.pub/?cid=46#!class) [統計](https://mahjong.pub/?cid=46#!ranking)
 - 47 [第二屆花鳥風月盃](https://mahjong.pub/admin.php?cid=47&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=47#!class) [統計](https://mahjong.pub/?cid=47#!ranking)
-- 50 [紫藤盃](https://mahjong.pub/admin.php?cid=50&amp;c_pw=tsdm) [分組](https://mahjong.pub/?cid=50#!class) [統計](https://mahjong.pub/?cid=50#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
@@ -37,3 +36,4 @@
 - 37 [【雀魂聯賽】花鳥風月盃](https://mahjong.pub/admin.php?cid=37&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=37#!class) [統計](https://mahjong.pub/?cid=37#!ranking)
 - 41 [第一屆大河盃](https://mahjong.pub/admin.php?cid=41&amp;c_pw=dhdhd) [分組](https://mahjong.pub/?cid=41#!class) [統計](https://mahjong.pub/?cid=41#!ranking)
 - 45 [千里群青争霸赛](https://mahjong.pub/admin.php?cid=45&amp;c_pw=qlsqls) [分組](https://mahjong.pub/?cid=45#!class) [統計](https://mahjong.pub/?cid=45#!ranking)
+- 50 [紫藤盃](https://mahjong.pub/admin.php?cid=50&amp;c_pw=tsdm) [分組](https://mahjong.pub/?cid=50#!class) [統計](https://mahjong.pub/?cid=50#!ranking)
