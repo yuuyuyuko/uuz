@@ -1,3 +1,26 @@
+var url = location.href, title = document.title, i = 0, j = true, e = [,,,,,,,,,], v;
+
+function O(e) {
+    for (i = 0; i < e.length; i++) {
+        e[i].setAttribute('target', '_blank');
+    }
+}
+function C() {
+    window.opener = null;
+    window.open('', '_self');
+    window.close();
+}
+function CK(e) {
+    if (e) {
+        document.getElementById(e).checked = true;
+    }
+}
+function CKN(e, i) {
+    if ((e)[i]) {
+        document.getElementsByName(e)[i].checked = true;
+    }
+}
+
 switch(true) {
     case url.search(/u.md|www.qishu.cc\/$|iqdb.org/) > -1:
         O(document.getElementsByTagName('a'))
@@ -49,72 +72,6 @@ switch(true) {
         e[0] = document.createElement('div');
         e[0].style = 'position:fixed; left:1660px; top:190px; width:210px; border:solid 1px rgba(249, 204, 226, .6)';
         e[0].innerHTML = title.split(/_免费/)[0];
-        break;
-    case url.search(/github.com/) > -1:
-        if (url.search(/login/) > -1) {
-            document.getElementById('login_field').value = u[1];
-            document.getElementById('password').value = p[0];
-            document.getElementsByClassName('commit')[0].click();
-        }
-        if (url.search(/delete/) > -1) {
-            document.getElementById('sudo_password').value = p[0];
-            document.getElementsByClassName('btn btn-block btn-primary')[0].click();
-        }
-        break;
-    case url.search(/www.z4a.net\/login/) > -1:
-        document.getElementsByName('login-subject')[0].value = u[1];
-        document.getElementsByName('password')[0].value = p[0];
-        document.getElementsByClassName('cursor-pointer icon-input-submit')[0].click();
-        break;
-    case url.search(/^http:\/\/www.allcpp.cn\/$/) > -1:
-        document.getElementById('l-user-id').value = u[2];
-        document.getElementById('l-user-pd').value = p[1];
-        document.getElementById('l-user-login').click();
-        break;
-    case url.search(/bilibili.com/) > -1:
-        if (url.search(/login/) > -1) {
-            setTimeout(function() {
-                document.getElementById('login-username').value = u[2] + ' ';
-            }, 4 * 1000);
-            document.getElementById('login-username').onkeyup = function() {
-                document.getElementById('login-passwd').value = p[1] + ' ';
-            };
-            CK('keep-login')
-            document.getElementsByClassName('icon-input-submit')[0].click();
-        }
-        break;
-    case url.search(/www.tsdm/) > -1:
-        if (url.search(/member.php\?mod=logging&action=login/) > -1) {
-            document.getElementsByName('username')[0].value = u[0];
-            document.getElementsByName('password')[0].value = p[0];
-            CKN('cookietime', 0)
-        }
-        if (url.search(/forum.php\?mod=modcp&fid=125/) > -1) {
-            document.getElementById('cppwd').value = p[0];
-            document.getElementById('submit').click();
-        }
-        if (url.search(/home.php\?mod=space&do=pm&subop=view&touid=/) > -1) {
-            document.getElementById('replymessage').value = '[color=#9030f0][/color]';
-            document.getElementById('pmsubmit').onclick = function() {
-                document.getElementById('replymessage').value = '[color=#9030f0][/color]';
-            };
-        }
-        if (url.search(/mod=space&do=notice/) > -1 || title.search(/提示信息/) > -1) {
-            setTimeout(function() {
-                history.go(-1);
-            }, 10 * 1000);
-        }
-        if (document.getElementById('myprompt').innerHTML.search(/提醒\(\d+\)/) > -1 && url.search(/mod=post&action=(newthread|reply)/) === -1) {
-            new Audio('http://www.liuli.in/mp3/onj001.mp3').play();
-            setTimeout(function() {
-                location.reload();
-            }, 60 * 1000);
-            onmouseup = function() {
-                if (event.button === 2) {
-                    location.href = 'home.php?mod=space&do=notice';
-                }
-            };
-        }
         break;
     case url.search(/tenhou.net\/cs\/edit/) > -1:
         onkeyup = function() {
