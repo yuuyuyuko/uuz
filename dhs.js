@@ -440,7 +440,7 @@ async function add_player(str) {
   document
     .querySelector("body>div>div:nth-child(2)>div>div:nth-child(3)>button")
     .click();
-  //await sleep(1000);
+  //await sleep(500);
   //document.querySelector('body>div>div:nth-child(2)>div>div:nth-child(3)').lastChild.click();
 }
 
@@ -513,7 +513,7 @@ async function start_class() {
     return alert(missarr);
   }
 
-  await sleep(1000);
+  await sleep(500);
   var eelast = window.ee.length - 1;
   window.ee[eelast].prepareSlot[0].initPoint = set[0];
   window.ee[eelast].prepareSlot[1].initPoint = set[1];
@@ -534,7 +534,7 @@ async function start_class() {
         "#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(2)>label:nth-child(2)>span>span>input"
       )
       .click();
-    await sleep(1000);
+    await sleep(500);
     //document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
     alert("信息已填好，請點擊開始");
   }
@@ -548,7 +548,7 @@ async function send_data() {
       "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(1)"
     )
     .click();
-  await sleep(3000);
+  await sleep(1500);
   window.ee = []; //重設緩存
   window.pp = []; //重設緩存
   window.tb = []; //重設緩存
@@ -558,7 +558,7 @@ async function send_data() {
       "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(4)"
     )
     .click();
-  await sleep(5000);
+  await sleep(2500);
   var nowstr = document.getElementById("c_date").value;
   var x = document.getElementsByTagName("tr");
   var bcnt = 0;
