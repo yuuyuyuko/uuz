@@ -16,6 +16,23 @@ if (
   new_script.setAttribute("id", "root");
   document.body.appendChild(new_script);
 
+setTimeout(function() {
+    function F(a, b, c) {
+        document.getElementById('cid').value = a;
+        document.getElementById('c_round').value = b;
+        document.getElementById('c_pw').value = c;
+        init_all();
+    }
+    onkeyup = function() {
+        if (event.keyCode === 49) {F(47, 1, 'hnfy')}
+        if (event.keyCode === 50) {F(51, 1, 'fhxy')}
+        if (event.keyCode === 68) {F(46, 1, 'dfbm2')}
+        if (event.keyCode === 81) {F(45, 2, 'qlsqls')}
+        if (event.keyCode === 89) {F(0, 5, 'yysyys')}
+        if (event.keyCode === 90) {F(50, 1, 'tsdm')}
+    };
+}, 1000);
+  
   var x = document.createElement("iframe");
   x.src = "https://majsoul.union-game.com/dhs/";
   x.name = "qhdhs";
