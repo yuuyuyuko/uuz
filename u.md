@@ -10,6 +10,7 @@
 [雀魂](https://majsoul.union-game.com/#/)  
 [賽事管理](https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt)  
 雀魂腳本: javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js'); document.body.appendChild(e);})());  
+0b9cd27f860e456eb982fd3040f9ed84  
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
