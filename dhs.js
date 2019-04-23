@@ -24,8 +24,8 @@ setTimeout(function() {
         init_all();
     }
     onkeyup = function() {
-        if (event.keyCode === 49) {F(47, 1, 'hnfy')}
-        if (event.keyCode === 50) {F(51, 1, 'fhxy')}
+        if (event.keyCode === 72) {F(47, 1, 'hnfy')}
+        if (event.keyCode === 70) {F(51, 1, 'fhxy')}
         if (event.keyCode === 68) {F(46, 1, 'dfbm2')}
         if (event.keyCode === 81) {F(45, 2, 'qlsqls')}
         if (event.keyCode === 89) {F(0, 5, 'yysyys')}
