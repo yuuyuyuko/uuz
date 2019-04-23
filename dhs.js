@@ -28,7 +28,7 @@ setTimeout(function() {
         if (event.keyCode === 70) {F(51, 1, 'fhxy')}
         if (event.keyCode === 68) {F(46, 1, 'dfbm2')}
         if (event.keyCode === 81) {F(45, 1, 'qlsqls')}
-        if (event.keyCode === 89) {F(48, 1, 'yysyys')}
+        if (event.keyCode === 89) {F(38, 1, 'yysyys')}
         if (event.keyCode === 90) {F(50, 1, 'tsdm')}
     };
 }, 1000);
