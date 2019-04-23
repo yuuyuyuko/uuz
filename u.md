@@ -5,14 +5,16 @@
 >[TSDM2019](tsdm2019.md)  
 >[萌間](moe.md)  
 
-常用鏈接
+常用鏈接  
+[https://www.weiyun.com/](https://www.weiyun.com/)  
+[賽事管理](https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt)  
 [雀魂](https://majsoul.union-game.com/#/)  
 雀魂腳本: javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js'); document.body.appendChild(e);})());  
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
    - 3172 [萌間](https://mahjong.pub/team.htm?t_pw=3wlAlSPl1m0N4cFN5T@DzA)
-   - 3239 [梓川女子](https://mahjong.pub/team.htm?t_pw=1qey9O10wPRkb3oBSlUeEt)
+   - 3239 [梓川](https://mahjong.pub/team.htm?t_pw=1qey9O10wPRkb3oBSlUeEt)
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yysyys) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
 - 44 [第二屆芳文盃](https://mahjong.pub/admin.php?cid=44&c_pw=fwb2fwb) [分組](https://mahjong.pub/?cid=44#!class) [統計](https://mahjong.pub/?cid=44#!ranking)
     - 3251 [白玉樓](https://mahjong.pub/team.htm?t_pw=2qhwleLfpZuqOVizWYODxu)
