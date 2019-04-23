@@ -4,6 +4,7 @@
 >[TSDM2018](tsdm2018.md)  
 >[TSDM2019](tsdm2019.md)  
 >[萌間](moe.md)  
+>[大會腳本](dhs.js)  
 
 常用鏈接  
 [https://www.weiyun.com/](https://www.weiyun.com/)  
