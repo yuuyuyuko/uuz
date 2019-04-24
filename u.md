@@ -1,16 +1,17 @@
 ![](https://www.z4a.net/images/2018/08/01/u.png)
 
+
 >[TSDM名單](list.md)  
 >[TSDM2018](tsdm2018.md)  
 >[TSDM2019](tsdm2019.md)  
 >[萌間](moe.md)  
->[大會腳本](dhs.js)  
 
-常用鏈接  
+### 常用鏈接  
 [https://www.weiyun.com/](https://www.weiyun.com/)  
 [雀魂](https://majsoul.union-game.com/#/)  
 [賽事管理](https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt)  
 雀魂腳本: javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js'); document.body.appendChild(e);})());  
+
 ca94f3b745d8438bbdfaeaeb778fee42  
 
 進行中賽事
