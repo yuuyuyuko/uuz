@@ -11,7 +11,7 @@
 [https://www.weiyun.com/](https://www.weiyun.com/)  
 [雀魂](https://majsoul.union-game.com/#/)  
 [賽事管理](https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt)  
-雀魂腳本: javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js'); document.body.appendChild(e);})());  
+雀魂腳本: `javascript:void((function(){var e = document.createElement('script'); e.setAttribute('src', 'https://yuuyuyuko.github.io/uuz/dhs.js'); document.body.appendChild(e);})());`  
 
 ca94f3b745d8438bbdfaeaeb778fee42  
 
