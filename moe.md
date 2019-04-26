@@ -1,10 +1,5 @@
 ![](https://www.z4a.net/images/2018/08/01/u.png)  
 
->[TSDM名單](list.md)  
->[TSDM2018](tsdm2018.md)  
->[TSDM2019](tsdm2019.md)  
->[萌間](moe.md)  
-
 ## 萌間成員表
 
 |2018下學期|||||
