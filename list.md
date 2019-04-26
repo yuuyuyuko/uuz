@@ -1,11 +1,5 @@
 ![](https://www.z4a.net/images/2018/08/01/u.png)  
 
->[名單](list.md)
->[歷屆隊員](member.md)  
->[TSDM2018](tsdm2018.md)  
->[TSDM2019](tsdm2019.md)  
->[萌間](moe.md)  
-
 暱稱|QQ|天鳳|段位|雀魂|星級
 -|-|-|-|-|-
 幽々子|幽々子|宮永幽|四段|琉璃|雀士3
