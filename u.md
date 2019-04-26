@@ -18,7 +18,7 @@
    - 3172 [萌間](https://mahjong.pub/team.htm?t_pw=3wlAlSPl1m0N4cFN5T@DzA)
    - 3239 [梓川女子](https://mahjong.pub/team.htm?t_pw=1qey9O10wPRkb3oBSlUeEt)
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yysyys) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
-    - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0TVz=9ooL9=z12@p4Kb@oD)
+    - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
 - 44 [第二屆芳文盃](https://mahjong.pub/admin.php?cid=44&c_pw=fwb2fwb) [分組](https://mahjong.pub/?cid=44#!class) [統計](https://mahjong.pub/?cid=44#!ranking)
     - 3251 [白玉樓](https://mahjong.pub/team.htm?t_pw=2qhwleLfpZuqOVizWYODxu)
     - 3252 [少女祈禱中/亡霊](https://mahjong.pub/team.htm?t_pw=1UD81Amk6OIwgojqZ8m7XP)
