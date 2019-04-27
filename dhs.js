@@ -1,10 +1,10 @@
 if (
   window.location.host != "majsoul.union-game.com" ||
-  window.location.pathname != "/0/v0.4.1.w/user_xieyi/1.txt"
+  window.location.pathname != "/0/v0.5.1.w/user_xieyi/1.txt"
 ) {
   alert("書籤腳本用法：在任意地方運行一次此腳本，他會轉向一個文本\n【注意】然後再運行一次此腳本");
   window.location.href =
-    "https://majsoul.union-game.com/0/v0.4.1.w/user_xieyi/1.txt";
+    "https://majsoul.union-game.com/0/v0.5.1.w/user_xieyi/1.txt";
 } else {
   history.pushState(null, null, "/dhs/");
   //document.getElementsByTagName('style')[0].remove();
