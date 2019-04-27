@@ -37,7 +37,7 @@
 - 47 [第二屆花鳥風月盃](https://mahjong.pub/admin.php?cid=47&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=47#!class) [統計](https://mahjong.pub/?cid=47#!ranking)
 - 51 [次聯-風花雪月盃2](https://mahjong.pub/admin.php?cid=51&amp;c_pw=fhxy) [分組](https://mahjong.pub/?cid=51#!class) [統計](https://mahjong.pub/?cid=51#!ranking)
     - 3559 [萌間](https://mahjong.pub/team.htm?t_pw=0QM@XVzLA9ygrRibUpDW88)
-    - 3560 [梓川女子](https://mahjong.pub/team.htm?t_pw=0QM@XVzLA9ygrRibUpDW88)
+    - 3560 [梓川女子](https://mahjong.pub/team.htm?t_pw=1pSDcsiT3Jo@mX6nYHDkdq)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
