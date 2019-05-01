@@ -21,8 +21,6 @@
 - 44 [第二屆芳文盃](https://mahjong.pub/admin.php?cid=44&c_pw=fwb2fwb) [分組](https://mahjong.pub/?cid=44#!class) [統計](https://mahjong.pub/?cid=44#!ranking)
     - 3251 [琉璃](https://mahjong.pub/team.htm?t_pw=2qhwleLfpZuqOVizWYODxu)
     - 3252 [少女祈禱中/亡霊](https://mahjong.pub/team.htm?t_pw=1UD81Amk6OIwgojqZ8m7XP)
-    - 3253 [美少女永不缺席](https://mahjong.pub/team.htm?t_pw=0MzrnpcjsiCpLcWsHmW6do)
-    - 3254 [死肥宅天生要涼](https://mahjong.pub/team.htm?t_pw=2ra4rbz@wnh4q4sai1rOYN)
     - 3255 [TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=1qwVtsUwxVklfZVL@iP8Ns)
     - 3256 [萌間](https://mahjong.pub/team.htm?t_pw=2ZvnJzpA364JKqfNGmhCgj)
     - 3299 [梓川女子](https://mahjong.pub/team.htm?t_pw=2Gx5fjQAjrAxX2Yqo6nX4J)
