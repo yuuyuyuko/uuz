@@ -8,7 +8,7 @@
 >[腳本](dhs.js)  
 
 ### 常用鏈接  
-[微雲](https://www.weiyun.com/)  
+[空間](http://qun.qzone.qq.com/group#!/816491521/share)  
 [雀魂](https://majsoul.union-game.com/#/)  
 [賽事管理](https://majsoul.union-game.com/0/v0.5.1.w/user_xieyi/1.txt)  
 
