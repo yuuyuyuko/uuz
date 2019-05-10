@@ -33,9 +33,11 @@
     - 3417 [純子女僕裝](https://mahjong.pub/team.htm?t_pw=0TVz=9ooL9=z12@p4Kb@oD)
     - 3424 [鍋鍋女裝](https://mahjong.pub/team.htm?t_pw=0qGO9SDMBJTuMjLS2SPr7R)
 - 47 [第二屆花鳥風月盃](https://mahjong.pub/admin.php?cid=47&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=47#!class) [統計](https://mahjong.pub/?cid=47#!ranking)
+- 49 [萌战杯厨团雀魂邀请赛](https://mahjong.pub/admin.php?cid=49&amp;c_pw=) [分組](https://mahjong.pub/?cid=49#!class) [統計](https://mahjong.pub/?cid=49#!ranking)
 - 51 [次聯-風花雪月盃2](https://mahjong.pub/admin.php?cid=51&amp;c_pw=fhxy) [分組](https://mahjong.pub/?cid=51#!class) [統計](https://mahjong.pub/?cid=51#!ranking)
     - 3559 [萌間](https://mahjong.pub/team.htm?t_pw=0QM@XVzLA9ygrRibUpDW88)
     - 3560 [梓川女子](https://mahjong.pub/team.htm?t_pw=1pSDcsiT3Jo@mX6nYHDkdq)
+- 54 [明风智和杯表演赛](https://mahjong.pub/admin.php?cid=54&c_pw=mfzh) [分組](https://mahjong.pub/?cid=54#!class) [統計](https://mahjong.pub/?cid=54#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
