@@ -26,11 +26,11 @@ setTimeout(function() {
     onkeyup = function() {
         if (event.keyCode === 72) {F(47, 1, 'hnfy')}
         if (event.keyCode === 70) {F(51, 1, 'fhxy')}
-        if (event.keyCode === 68) {F(46, 3, 'dfbm2')}
+        if (event.keyCode === 68) {F(46, 4, 'dfbm2')}
         if (event.keyCode === 81) {F(45, 3, 'qlsqls')}
         if (event.keyCode === 89) {F(38, 7, 'yysyys')}
         if (event.keyCode === 90) {F(50, 2, 'tsdm')}
-        if (event.keyCode === 77) {F(54, 1, 'mfzh')}
+        if (event.keyCode === 77) {F(54, 2, 'mfzh')}
     };
 }, 1000);
   
