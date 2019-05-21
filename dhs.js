@@ -551,8 +551,9 @@ async function start_class() {
       )
       .click();
     await sleep(500);
-    document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
+    //document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
     //alert("信息已填好，請點擊開始");
+    setTimeout("document.getElementById('btn_st').click()", 500);
   }
 }
 
