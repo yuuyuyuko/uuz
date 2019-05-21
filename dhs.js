@@ -24,11 +24,11 @@ setTimeout(function() {
         init_all();
     }
     onkeyup = function() {
-        if (event.keyCode === 72) {F(47, 1, 'hnfy')}
-        if (event.keyCode === 70) {F(51, 1, 'fhxy')}
-        if (event.keyCode === 81) {F(45, 3, 'qlsqls')}
-        if (event.keyCode === 89) {F(38, 9, 'yysyys')}
-        if (event.keyCode === 90) {F(50, 3, 'tsdm')}
+        if (event.keyCode === 72) {F(47, 1, 'hnfy')}//明風智和盃全國立直麻將網絡聯賽
+        if (event.keyCode === 70) {F(51, 1, 'fhxy')}//明風智和盃全國立直麻將網絡聯賽次級聯賽
+        if (event.keyCode === 81) {F(45, 3, 'qlsqls')}//千里群青爭霸賽 
+        if (event.keyCode === 89) {F(38, 9, 'yysyys')}//雀魂友誼賽
+        if (event.keyCode === 90) {F(50, 3, 'tsdm')}//紫藤盃
     };
 }, 1000);
   
@@ -551,8 +551,8 @@ async function start_class() {
       )
       .click();
     await sleep(500);
-    //document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
-    alert("信息已填好，請點擊開始");
+    document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
+    //alert("信息已填好，請點擊開始");
   }
 }
 
