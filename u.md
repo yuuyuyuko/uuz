@@ -5,12 +5,10 @@
 >[萌間](moe.md)  
 >[2018](2018.md)  
 >[2019](2019.md)  
->[腳本](dhs.js)  
 
 ### 常用鏈接  
 [空間](http://qun.qzone.qq.com/group#!/816491521/share)  
 [雀魂](https://majsoul.union-game.com/#/)  
-[賽事管理](https://majsoul.union-game.com/0/v0.5.1.w/user_xieyi/1.txt)  
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
