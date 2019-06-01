@@ -18,6 +18,7 @@
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yysyys) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
+    - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
 - 47 [明風智和盃全國立直麻將網絡聯賽](https://mahjong.pub/admin.php?cid=47&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=47#!class) [統計](https://mahjong.pub/?cid=47#!ranking)
 - 49 [萌战杯厨团雀魂邀请赛](https://mahjong.pub/admin.php?cid=49&amp;c_pw=) [分組](https://mahjong.pub/?cid=49#!class) [統計](https://mahjong.pub/?cid=49#!ranking)
 - 51 [明风智和杯全国立直麻将网络联赛次级联赛](https://mahjong.pub/admin.php?cid=51&amp;c_pw=fhxy) [分組](https://mahjong.pub/?cid=51#!class) [統計](https://mahjong.pub/?cid=51#!ranking)
