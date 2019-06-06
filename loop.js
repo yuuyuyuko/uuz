@@ -50,7 +50,7 @@ async function tenhou_log() {
     "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(4)>span>span>span"
   );
   if (btn == null || btn == "") {
-    return alert("请进入开比赛的页面执行此脚本");
+    //return alert("请进入开比赛的页面执行此脚本");
   }
   btn.click();
   await sleep(3000);
