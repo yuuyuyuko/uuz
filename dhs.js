@@ -1,651 +1,86 @@
-if (
-  window.location.host != "majsoul.union-game.com" ||
-  window.location.pathname != "/0/v0.5.1.w/user_xieyi/1.txt"
-) {
-  alert("書籤腳本用法：在任意地方運行一次此腳本，他會轉向一個文本\n【注意】然後再運行一次此腳本");
-  window.location.href =
-    "https://majsoul.union-game.com/0/v0.5.1.w/user_xieyi/1.txt";
-} else {
-  history.pushState(null, null, "/dhs/");
-  //document.getElementsByTagName('style')[0].remove();
-  //document.getElementsByTagName('style')[0].remove();
-  document.body.innerHTML = "";
-  //-------
+window.loopcnt = 0; //计数
 
-  var new_script = document.createElement("div");
-  new_script.setAttribute("id", "root");
-  document.body.appendChild(new_script);
+!(function() {
+  //创建工具栏
+  var newdiv = document.createElement("div");
+  newdiv.style.cssText =
+    "background:#66997B;width:100%;position:fixed;bottom:0;left:0;";
+  //循环按钮
+  var e = document.createElement("input");
+  e.setAttribute("type", "button");
+  e.setAttribute("id", "btn");
+  e.setAttribute("value", "开始循环:满4人即开");
+  e.setAttribute("onclick", "loop_start()");
+  newdiv.appendChild(e);
 
-setTimeout(function() {
-    function F(a, b, c) {
-        document.getElementById('cid').value = a;
-        document.getElementById('c_round').value = b;
-        document.getElementById('c_pw').value = c;
-        init_all();
-    }
-    onkeyup = function() {
-        if (event.keyCode === 72) {F(47, 1, 'hnfy')}//明風智和盃全國立直麻將網絡聯賽
-        if (event.keyCode === 70) {F(51, 1, 'fhxy')}//明風智和盃全國立直麻將網絡聯賽次級聯賽
-        if (event.keyCode === 81) {F(45, 3, 'qlsqls')}//千里群青爭霸賽 
-        if (event.keyCode === 89) {F(38, 9, 'yysyys')}//雀魂友誼賽
-        if (event.keyCode === 90) {F(50, 3, 'tsdm')}//紫藤盃
-    };
-}, 1000);
-  
-  var x = document.createElement("iframe");
-  x.src = "https://majsoul.union-game.com/dhs/";
-  x.name = "qhdhs";
-  x.id = "qhdhs";
-  x.onload = function () {
-    //var tmp = [];
-    var scripts = frames["qhdhs"].document.getElementsByTagName("script");
-    for (let i = 0; i < scripts.length; i++) {
-      if (
-        "https://majsoul.union-game.com/dhs/vendors~app~vendor.b2b2ee04.js" ===
-        scripts[i].src
-      ) {
-        var new_script = document.createElement("script");
-        new_script.setAttribute(
-          "src",
-          "https://lietxia.github.io/maj/vendors_app_vendor.b2b2ee04.js"
-        );
-        window.top.document.body.appendChild(new_script);
-      } else {
-        var new_script = document.createElement("script");
-        new_script.setAttribute("src", scripts[i].src);
-        window.top.document.body.appendChild(new_script);
-      }
-    }
-    console.log(1);
-    document.body.removeChild(x);
-  };
-  document.body.appendChild(x);
+  //次数按钮
+  newdiv.appendChild(document.createTextNode("检查次数:"));
+  var s = document.createElement("span");
+  s.setAttribute("id", "lcnt");
+  s.innerText = 0;
+  newdiv.appendChild(s);
 
-  //創建工具欄
-  //樣式表
-  function create_toolbox() {
-    var style = document.createElement("style");
-    style.type = "text/css";
-    style.innerHTML = //'body{overflow-x:hidden;} ' +
-      "#tool_div{background:#bbbcce;width:100%;position:fixed;bottom:0;left:0;} " +
-      "#root{padding-bottom:200px;}" +
-      "#ifr{height:40px;width:60%;}" +
-      "#tool_div div{width:30%;display:inline-block;vertical-align:middle;}" +
-      "#add_player_text{width:100%;height:40px;}" +
-      "#start_ta{width:60%;}";
-    document.head.appendChild(style);
+  //转换到天凤文本
+  var e3 = document.createElement("textarea");
+  e3.setAttribute("id", "th_txt");
+  newdiv.appendChild(e3);
 
-    var tool_div = document.createElement("div");
-    tool_div.setAttribute("id", "tool_div");
+  var e2 = document.createElement("input");
+  e2.setAttribute("type", "button");
+  e2.setAttribute("value", "转成天凤记录");
+  e2.setAttribute("onclick", "tenhou_log()");
+  newdiv.appendChild(e2);
+  var a = document.createElement("a");
+  a.setAttribute("href", "http://tenhou.net/ranking_tool.html");
+  a.setAttribute("target", "_blank");
+  a.innerText = "天凤统计工具";
+  newdiv.appendChild(a);
 
-    //<--div
-    var new_div = document.createElement("div");
-
-    var new_lable = document.createElement("lable");
-    new_lable.setAttribute("for", "cid");
-    new_lable.innerText = "賽事ID:";
-    new_div.appendChild(new_lable);
-    var new_ipt = document.createElement("input");
-    new_ipt.setAttribute("size", "2");
-    new_ipt.setAttribute("type", "text");
-    new_ipt.setAttribute("value", "0");
-    new_ipt.setAttribute("id", "cid");
-    new_ipt.setAttribute("onchange", "init_all()");
-    new_div.appendChild(new_ipt);
-
-    new_div.appendChild(document.createElement("br"));
-
-    var new_lable = document.createElement("lable");
-    new_lable.setAttribute("for", "c_round");
-    new_lable.innerText = "回合:";
-    new_div.appendChild(new_lable);
-    var new_ipt = document.createElement("input");
-    new_ipt.setAttribute("type", "text");
-    new_ipt.setAttribute("size", "2");
-    new_ipt.setAttribute("value", "1");
-    new_ipt.setAttribute("id", "c_round");
-    new_ipt.setAttribute("onchange", "init_all()");
-    new_div.appendChild(new_ipt);
-
-    new_div.appendChild(document.createElement("br"));
-
-    var new_lable = document.createElement("lable");
-    new_lable.setAttribute("for", "c_date");
-    new_lable.innerText = "日期";
-    new_div.appendChild(new_lable);
-    var new_ipt = document.createElement("input");
-    new_ipt.setAttribute("type", "text");
-    new_ipt.setAttribute("size", "10");
-    new_ipt.setAttribute("id", "c_date");
-    new_ipt.setAttribute("onchange", "init_all()");
-    var d = new Date();
-    var nowstr = d.getFullYear();
-    nowstr += (d.getMonth() < 10 ? "-0" : "-") + (d.getMonth() + 1);
-    nowstr += (d.getDate() < 10 ? "-0" : "-") + d.getDate();
-    new_ipt.setAttribute("value", nowstr);
-    new_div.appendChild(new_ipt);
-
-    new_div.appendChild(document.createElement("br"));
-
-    var new_lable = document.createElement("lable");
-    new_lable.setAttribute("for", "c_pw");
-    new_lable.innerText = "賽事密碼";
-    new_div.appendChild(new_lable);
-    var new_ipt = document.createElement("input");
-    new_ipt.setAttribute("type", "password");
-    new_ipt.setAttribute("size", "6");
-    new_ipt.setAttribute("id", "c_pw");
-    new_ipt.setAttribute("onchange", "init_all()");
-    new_div.appendChild(new_ipt);
-
-    tool_div.appendChild(new_div);
-    //div-->
-
-    //<--div-tools
-    var div_tools = document.createElement("div");
-    div_tools.setAttribute("id", "div-tools");
-
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "init_list()");
-    new_btn.setAttribute("value", "獲取成員列表");
-    div_tools.appendChild(new_btn);
-
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "init_start()");
-    new_btn.setAttribute("value", "開始某個組");
-    div_tools.appendChild(new_btn);
-
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "send_data()");
-    new_btn.setAttribute("value", "讀取牌譜");
-    div_tools.appendChild(new_btn);
-
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "init_miss()");
-    new_btn.setAttribute("value", "未到名單");
-    div_tools.appendChild(new_btn);
-
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "init_all()");
-    new_btn.setAttribute("value", "重載數據");
-    div_tools.appendChild(new_btn);
-
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "page_change()");
-    new_btn.setAttribute("value", "切換頁面");
-    div_tools.appendChild(new_btn);
-    
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("id", "loop");
-    new_btn.setAttribute("onclick", "loop_start()");
-    new_btn.setAttribute("value", "滿四人即開");
-    div_tools.appendChild(new_btn);
-    
-    tool_div.appendChild(div_tools);
-
-    //div-tools->
-
-    //<--div2
-    var new_div2 = document.createElement("div");
-    new_div2.setAttribute("id", "box");
-    tool_div.appendChild(new_div2);
-    //div2-->
-
-    document.body.appendChild(tool_div);
-  } //func-->
-  create_toolbox();
-} //else-->
-
-function page_change() {
-  //*[@id="root"]/div/header/div/div[3]/div/div/div/div
-  var pg = document.querySelector('#root > div > header > div > div:nth-child(3) > div > div > div > div');
-  var box = document.getElementById("box");
-  box.innerHTML = "";
-  var btns = pg.innerText.split(/\s+/);
-  for (var i = 0; i < btns.length; i++) {
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "document.querySelector('#root > div > header > div > div:nth-child(3) > div > div > div > div > button:nth-child(" + (i + 1) + ")').click();");
-    new_btn.setAttribute("value", btns[i]);
-    box.appendChild(new_btn);
-  }
-}
-
-
-//----init類---
-function init_all() {
-  window.team = 1;
-  window.cls = 1;
-  window.c_admin = 1;
-}
-
-function init_miss() {
-  var box = document.getElementById("box");
-  box.innerHTML = "";
-
-  if (typeof window.miss == "undefined") {
-    window.miss = [];
-  }
-
-  var new_textarea = document.createElement("textarea");
-  new_textarea.value = window.miss.join("\n");
-  new_textarea.setAttribute("id", "miss_ta");
-  box.appendChild(new_textarea);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "button");
-  new_btn.setAttribute("onclick", "clean_miss()");
-  new_btn.setAttribute("value", "清空列表");
-  box.appendChild(new_btn);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "button");
-  new_btn.setAttribute("onclick", "copy_miss()");
-  new_btn.setAttribute("value", "複製列表");
-  box.appendChild(new_btn);
-}
-
-function init_list() {
-  //添加一些成員
-  var box = document.getElementById("box");
-  box.innerHTML = "";
-
-  var cid = document.getElementById("cid").value;
-
-  if (!(typeof window.team === "object")) {
-    window.team = get_json(
-      "https://mahjong.pub/api/data.php?t=team&cid=" + cid
-    );
-  }
-  var arr = ["", "null"];
-  var tmp = "";
-  for (row in window.team) {
-    tmp = window.team[row]["t_player"] + "\n" + window.team[row]["t_sub"];
-    arr = arr.concat(tmp.split(/\s+/));
-  }
-  var res = [];
-  for (var i = 0, len = arr.length; i < len; i++) {
-    var obj = arr[i];
-    for (var j = 0, jlen = res.length; j < jlen; j++) {
-      if (res[j] === obj) break;
-    }
-    if (jlen === j) res.push(obj);
-  }
-  res.shift();
-  res.shift();
-
-  var new_textarea = document.createElement("textarea");
-  new_textarea.setAttribute("id", "add_player_text");
-  new_textarea.value = res.join("\n");
-  box.appendChild(new_textarea);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "button");
-  new_btn.setAttribute("onclick", "add_player()");
-  new_btn.setAttribute("value", "加入參賽名單");
-  box.appendChild(new_btn);
-
-  return res;
-} //func-->
-
-function init_start() {
-  var box = document.getElementById("box");
-  box.innerHTML = "";
-  var cid = document.getElementById("cid").value;
-  var c_round = document.getElementById("c_round").value;
-
-  var new_ta = document.createElement("textarea");
-  new_ta.setAttribute("id", "start_ta");
-  new_ta.setAttribute("rows", "4");
-  box.appendChild(new_ta);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "button");
-  new_btn.setAttribute("onclick", "start_class()");
-  new_btn.setAttribute("value", "開始");
-  box.appendChild(new_btn);
-
-  box.appendChild(document.createElement("br"));
-
-  if (!(typeof window.miss === "object")) {
-    window.miss = [];
-  }
-  if (!(typeof window.c_admin === "object")) {
-    window.c_admin = get_json(
-      "https://mahjong.pub/api/data.php?t=admin&cid=" + cid
-    );
-  }
-  if (!(typeof window.team === "object")) {
-    window.team = get_json(
-      "https://mahjong.pub/api/data.php?t=team&cid=" + cid
-    );
-  }
-  if (!(typeof window.cls === "object")) {
-    window.cls = get_json(
-      "https://mahjong.pub/api/data.php?t=class&cid=" + cid
-    );
-  }
-  if (window.cls === null) {
-    return alert("此賽事還沒分組，或讀取分組失敗，請按【重載數據】");
-  }
-  var cls_count = 0;
-  window.this_round = [];
-  for (var i = 0; i < window.cls.length; i++) {
-    if (
-      window.cls[i]["round"] == c_round &&
-      window.cls[i]["t_class"] > cls_count
-    ) {
-      cls_count = window.cls[i]["t_class"];
-      window.this_round[window.cls[i]["t_class"]] = [
-        window.cls[i]["rid"],
-        window.cls[i]["tid1"],
-        window.cls[i]["tid2"],
-        window.cls[i]["tid3"],
-        window.cls[i]["tid4"]
-      ];
-    }
-  }
-  for (var i = 1; i <= cls_count; i++) {
-    var new_btn = document.createElement("input");
-    new_btn.setAttribute("type", "button");
-    new_btn.setAttribute("onclick", "get_cls(" + i + ")");
-    new_btn.setAttribute("value", i + "組");
-    new_btn.setAttribute("id", "btn_start_" + i);
-    box.appendChild(new_btn);
-  }
-}
-
-//-------
-
-function copy_miss() {
-  document.getElementById("miss_ta").select();
-  document.execCommand("Copy");
-}
-
-function clean_miss() {
-  window.miss = [];
-  document.getElementById("miss_ta").value = "";
-}
-
-function get_json(url) {
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.open("GET", url, false);
-  xmlhttp.send();
-  if (xmlhttp.status === 200) {
-    return JSON.parse(xmlhttp.responseText);
-  } else {
-    return null;
-  }
-}
+  document.body.appendChild(newdiv);
+})();
 
 function sleep(ms) {
-  //暫停
+  //暂停
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function set_value(type, txt) {
-  //設置值
-  var last = window.ee.length - 1;
-  window.ee[last][type] = txt;
-  window.pp[last].updater.enqueueSetState(
-    window.pp[last],
-    window.ee[last],
-    null,
-    "setState"
+async function tenhou_log() {
+  //L0000 | 00:00 | 四般南喰赤 | player4(+30.1,-5枚) player5(+10,0枚) player9(-12.0) player0(-28.1,+5枚)
+  var btn = document.querySelector(
+    "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(4)>span>span>span"
   );
-}
-
-function get_cls(cls) {
-  arr = get_json(
-    "https://mahjong.pub/api/maj_get.php?p=" +
-    window.c_admin.c_s_po +
-    "&data=" +
-    window.this_round[cls].join("_") +
-    "&t=" +
-    encodeURI(window.c_admin.t_type)
-  );
-  if (arr === null || arr === "") {
-    return alert("獲取第" + cls + "組開賽名單失敗");
+  if (btn == null || btn == "") {
+    return alert("请进入开比赛的页面执行此脚本");
   }
-  if (arr[0] == "2") {
-    return alert(arr[1]);
-  }
-  document.getElementById("start_ta").value = arr[1];
-}
-
-async function add_player(str) {
-  if (typeof str === "undefined") {
-    str = document.getElementById("add_player_text").value;
-  }
-  document
-    .querySelector(
-      "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(1)"
-    )
-    .click();
-  await sleep(1000);
-  window.ee = []; //重設緩存
-  window.pp = []; //重設緩存
-  document
-    .querySelector(
-      "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(2)"
-    )
-    .click();
-  await sleep(1500);
-  document
-    .querySelector(
-      "#root>div>div>main>div:nth-child(2)>div>div>button:nth-child(3)"
-    )
-    .click();
-  await sleep(500);
-  var eelast = window.ee.length - 1;
-  window.ee[eelast].query = str;
-  window.pp[eelast].updater.enqueueSetState(
-    window.pp[eelast],
-    window.ee[eelast],
-    null,
-    "setState"
-  );
-  await sleep(500);
-  document
-    .querySelector("body>div>div:nth-child(2)>div>div:nth-child(3)>button")
-    .click();
-  //await sleep(500);
-  //document.querySelector('body>div>div:nth-child(2)>div>div:nth-child(3)').lastChild.click();
-}
-
-async function start_class() {
-  var narr = [];
-  var parr = [];
-  var tmp = [];
-  var ta = document.getElementById("start_ta").value.split(/[\r\n]+/);
-  for (var i = 0; i < ta.length; i++) {
-    tmp = ta[i].replace(/^\s+|\s+$/g, "").split(/[\s]+/);
-    if (tmp.length === 1) {
-      narr[i] = "";
-      parr[i] = tmp[0];
-    } else {
-      narr[i] = tmp[0];
-      parr[i] = tmp[1];
-    }
-  }
-
-  document
-    .querySelector(
-      "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(1)"
-    )
-    .click();
-  await sleep(1500);
-  window.ee = []; //重設緩存
-  window.pp = []; //重設緩存
-  document
-    .querySelector(
-      "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(3)"
-    )
-    .click();
-  await sleep(2500);
-
-  var list = document.querySelector(
-    "#root>div>div>main>div:nth-child(2)>div>div>div>div:nth-child(2)>ul"
-  ).childNodes;
-  var set = ["x", "x", "x", "x"];
-  var cnt = 0;
-
-  for (var ii = 0; ii < 4; ii++) {
-    if (narr[ii] === null || narr[ii] === "") {
-      document
-        .querySelector(
-          "#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)>button"
-        )
-        .click();
-      set[ii] = parr[ii];
-      cnt++;
-      await sleep(1000);
-    } else {
-      for (var i = 0; i < list.length; i++) {
-        if (list[i].childNodes[0].childNodes[0].innerText == narr[ii]) {
-          list[i].childNodes[1].childNodes[0].click();
-          set[ii] = parr[ii];
-          cnt++;
-          await sleep(1000);
-        }
-      }
-    }
-  }
-  var missarr = "以下選手未到\n";
-  if (cnt < 4) {
-    for (var i = 0; i < 4; i++) {
-      if (set[i] == "x") {
-        window.miss.push(narr[i]);
-        missarr += narr[i] + "\n";
-      }
-    }
-    return alert(missarr);
-  }
-
-  await sleep(500);
-  var eelast = window.ee.length - 1;
-  window.ee[eelast].prepareSlot[0].initPoint = set[0];
-  window.ee[eelast].prepareSlot[1].initPoint = set[1];
-  window.ee[eelast].prepareSlot[2].initPoint = set[2];
-  window.ee[eelast].prepareSlot[3].initPoint = set[3];
-  window.pp[eelast].updater.enqueueSetState(
-    window.pp[eelast],
-    window.ee[eelast],
-    null,
-    "setState"
-  );
-
-  if (cnt === 4) {
-    //----點擊隨機按鈕---
-    await sleep(1000);
-    document
-      .querySelector(
-        "#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(2)>label:nth-child(2)>span>span>input"
-      )
-      .click();
-    await sleep(500);
-    //document.querySelector('#root>div>div>main>div:nth-child(2)>div>div>div:nth-child(2)>div:nth-child(3)').lastChild.click();
-    //alert("信息已填好，請點擊開始");
-    setTimeout("document.getElementById('btn_st').click()", 500);
-  }
-}
-
-async function send_data() {
-  var box = document.getElementById("box");
-  box.innerHTML = "";
-  document
-    .querySelector(
-      "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(1)"
-    )
-    .click();
-  await sleep(1500);
-  window.ee = []; //重設緩存
-  window.pp = []; //重設緩存
-  window.tb = []; //重設緩存
-
-  document
-    .querySelector(
-      "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(4)"
-    )
-    .click();
-  await sleep(2500);
-  var nowstr = document.getElementById("c_date").value;
+  btn.click();
+  await sleep(3000);
   var x = document.getElementsByTagName("tr");
-  var bcnt = 0;
-  var bs = false;
-  for (var i = 1; i < x.length; i++) {
-
-    if (
-      x[i].childNodes[1].innerText.indexOf(nowstr) === 0 &&
-      x[i].childNodes[6].innerText.replace(/^\s+|\s+$/g, "") != "pass"
-    ) {
-      bs = true;
-      var tmparr = [];
-      tmparr[0] = x[i].childNodes[1].innerText;
-      tmparr[1] = x[i].childNodes[2].innerText;
-      tmparr[2] = x[i].childNodes[3].innerText;
-      tmparr[3] = x[i].childNodes[4].innerText;
-      tmparr[4] = x[i].childNodes[5].innerText;
-      tmparr[5] = x[i].childNodes[6].innerText;
-      x[i].childNodes[6].childNodes[0].children[1].click();
-      tmparr[6] = window.ee[window.ee.length - 1].uuidEdit;
-      window.tb.push(tmparr);
-    }
-    if (bs) {
-      if (x[i].childNodes[1].innerText.indexOf(nowstr) != 0) {
-        bcnt++;
-      }
-    }
-    if (bcnt > 9) { break }
+  var outstr = "";
+  for (let i = x.length - 1; i > 0; i--) {
+    var tmparr = [];
+    tmparr = x[i].innerText.split(/\s+/g);
+    outstr +=
+      "L0000 | 00:00 | 四般南喰赤 | " +
+      tmparr[3] +
+      "(" +
+      parseFloat(tmparr[4]) +
+      ") " +
+      tmparr[5] +
+      "(" +
+      parseFloat(tmparr[6]) +
+      ") " +
+      tmparr[7] +
+      "(" +
+      parseFloat(tmparr[8]) +
+      ") " +
+      tmparr[9] +
+      "(" +
+      parseFloat(tmparr[10]) +
+      ")\r\n";
   }
-
-  var new_form = document.createElement("form");
-  new_form.setAttribute("method", "post");
-  new_form.setAttribute("target", "ifr");
-  new_form.setAttribute("action", "https://mahjong.pub/api/maj_post.php");
-
-  var new_ifr = document.createElement("iframe");
-  new_ifr.setAttribute("name", "ifr");
-  new_ifr.setAttribute("id", "ifr");
-  new_form.appendChild(new_ifr);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "submit");
-  new_btn.setAttribute("value", "發送");
-  new_form.appendChild(new_btn);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "hidden");
-  new_btn.setAttribute("name", "cid");
-  new_btn.setAttribute("value", document.getElementById("cid").value);
-  new_form.appendChild(new_btn);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "hidden");
-  new_btn.setAttribute("name", "pw");
-  new_btn.setAttribute("value", document.getElementById("c_pw").value);
-  new_form.appendChild(new_btn);
-
-  var new_btn = document.createElement("input");
-  new_btn.setAttribute("type", "hidden");
-  new_btn.setAttribute("name", "rnd");
-  new_btn.setAttribute("value", document.getElementById("c_round").value);
-  new_form.appendChild(new_btn);
-
-  var new_textarea = document.createElement("textarea");
-  new_textarea.setAttribute("name", "json");
-  new_textarea.value = JSON.stringify(window.tb);
-  new_form.appendChild(new_textarea);
-
-  box.appendChild(new_form);
-} //func
+  document.getElementById("th_txt").value = outstr;
+  alert("读取成功，可以利用【天凤统计工具】进行更详细的统计");
+}
 
 function loop_start() {
   var _span_ = document.getElementsByTagName("span");
@@ -661,52 +96,57 @@ function loop_start() {
     document.getElementById("sp_set") == null ||
     document.getElementById("sp_set") == ""
   ) {
-    return alert("請進入開比賽的頁面執行此腳本");
+    return alert("请进入开比赛的页面执行此脚本");
   }
 
   document.getElementById("sp_set").click();
-  setTimeout("document.getElementById('sp_st').click()", 500);
+  setTimeout("document.getElementById('sp_st').click()", 1000);
+  window.loopcnt = 0;
 
-  window.loop = setInterval(check_list, 5000);
-  e = document.getElementById("loop");
-  e.value = "退出循環";
+  window.loop = setInterval(check_list, 10000);
+  e = document.getElementById("btn");
   e.setAttribute("onclick", "loop_stop()");
+  e.value = "停止循环";
+  document.getElementById("lcnt").innerText = window.loopcnt;
 }
 
 function loop_stop() {
   clearInterval(window.loop);
-  e = document.getElementById("loop");
-  e.value = "滿四人即開";
+  e = document.getElementById("btn");
+  e.value = "开始循环:满4人即开";
   e.setAttribute("onclick", "loop_start()");
+  document.getElementById("lcnt").innerText = window.loopcnt;
 }
 
 function stck() {
+  window.loopcnt++;
   var pcnt = 0;
   var _span_ = document.getElementsByTagName("span");
   for (var i = 0; i < _span_.length; i++) {
-    if (_span_[i].innerText === "准备开始") {
+    if (_span_[i].innerText === "READY TO START") {
       pcnt++;
       _span_[i].parentNode.setAttribute("id", "sbt_" + pcnt);
     }
-    if (_span_[i].innerText === "对局开始") {
+    if (_span_[i].innerText === "START") {
       _span_[i].parentNode.setAttribute("id", "btn_st");
     }
-    if (_span_[i].innerText === "随机坐席（后台）") {
+    if (_span_[i].innerText === "Random seat (backstage)") {
       _span_[i].parentNode.setAttribute("id", "btn_rand");
     }
   }
   if (pcnt >= 4) {
     document.getElementById("sbt_1").click();
-    setTimeout("document.getElementById('sbt_2').click()", 500);
-    setTimeout("document.getElementById('sbt_3').click()", 1000);
-    setTimeout("document.getElementById('sbt_4').click()", 1500);
-    setTimeout("document.getElementById('btn_rand').click()", 2000);
-    setTimeout("document.getElementById('btn_st').click()", 2500);
+    setTimeout("document.getElementById('sbt_2').click()", 1000);
+    setTimeout("document.getElementById('sbt_3').click()", 2000);
+    setTimeout("document.getElementById('sbt_4').click()", 3000);
+    setTimeout("document.getElementById('btn_rand').click()", 4000);
+    setTimeout("document.getElementById('btn_st').click()", 5000);
   }
+  document.getElementById("lcnt").innerText = window.loopcnt;
 }
 
 function check_list() {
   document.getElementById("sp_set").click();
-  setTimeout("document.getElementById('sp_st').click()", 500);
-  setTimeout("stck()", 1000);
+  setTimeout("document.getElementById('sp_st').click()", 1000);
+  setTimeout("stck()", 2000);
 }
