@@ -47,7 +47,7 @@ function sleep(ms) {
 async function tenhou_log() {
   //L0000 | 00:00 | 四般南喰赤 | player4(+30.1,-5枚) player5(+10,0枚) player9(-12.0) player0(-28.1,+5枚)
   var btn = document.querySelector(
-    "#root>div>header>div>div:nth-child(3)>div>div>div>div>button:nth-child(4)>span>span>span"
+    "#root>div>div:nth-child(3)>div>div>div>div>button:nth-child(4)>span>span>span"
   );
   if (btn == null || btn == "") {
     return alert("請進入開比賽的頁面執行此腳本！");
