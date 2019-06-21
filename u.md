@@ -24,6 +24,7 @@
     - 3559 [萌間](https://mahjong.pub/team.htm?t_pw=0QM@XVzLA9ygrRibUpDW88)
     - 3560 [梓川女子](https://mahjong.pub/team.htm?t_pw=1pSDcsiT3Jo@mX6nYHDkdq)
 - 56 [明風智和聯賽盃](https://mahjong.pub/admin.php?cid=56&c_pw=mfzhlsb)  [分組](https://mahjong.pub/?cid=56#!class) [統計](https://mahjong.pub/?cid=56#!ranking)
+- 59 [东方杯M3麻将比赛](https://mahjong.pub/admin.php?cid=59&c_pw=dfbm3)  [分組](https://mahjong.pub/?cid=59#!class) [統計](https://mahjong.pub/?cid=59#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
