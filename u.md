@@ -24,7 +24,16 @@
     - 3559 [萌間](https://mahjong.pub/team.htm?t_pw=0QM@XVzLA9ygrRibUpDW88)
     - 3560 [梓川女子](https://mahjong.pub/team.htm?t_pw=1pSDcsiT3Jo@mX6nYHDkdq)
 - 56 [明風智和聯賽盃](https://mahjong.pub/admin.php?cid=56&c_pw=mfzhlsb)  [分組](https://mahjong.pub/?cid=56#!class) [統計](https://mahjong.pub/?cid=56#!ranking)
-- 59 [东方杯M3麻将比赛](https://mahjong.pub/admin.php?cid=59&c_pw=dfbm3)  [分組](https://mahjong.pub/?cid=59#!class) [統計](https://mahjong.pub/?cid=59#!ranking)
+- 58 [第2屆大河盃](https://mahjong.pub/admin.php?cid=58&amp;c_pw=dhdhd) [分組](https://mahjong.pub/?cid=58#!class) [統計](https://mahjong.pub/?cid=58#!ranking)
+    - 3815	[TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=2QS5tPN6xdEU6XeGLoJyD5)
+    - 3816	[萌間](https://mahjong.pub/team.htm?t_pw=0Z3hwIqpZ269GjhDQdRhED)
+    - 3817	[梓川女子](https://mahjong.pub/team.htm?t_pw=0mxKrhuAGF1TZTJo3RSAyJ)
+    - 3818	[少女祈禱中](https://mahjong.pub/team.htm?t_pw=1Q=4T=qxrrarH0HQrkfHu6)
+    - 3819	[琉璃](https://mahjong.pub/team.htm?t_pw=3H0S9NEYoyA27Qyh7t9rfO)
+    - 3820	[醬油鋪](https://mahjong.pub/team.htm?t_pw=3YeYTN3FlFrUByVhzqOz7y)
+    - 3849	[萌间](https://mahjong.pub/team.htm?t_pw=0QzXaHiSjidERm5t=gZF2w)
+    - 3861	[明风智和杯全国高校联赛幕后黑手](https://mahjong.pub/team.htm?t_pw=2vF@nsAPEs5zA@aR0SUaDZ)
+- 59 [東方盃M3麻將比賽](https://mahjong.pub/admin.php?cid=59&c_pw=dfbm3)  [分組](https://mahjong.pub/?cid=59#!class) [統計](https://mahjong.pub/?cid=59#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
