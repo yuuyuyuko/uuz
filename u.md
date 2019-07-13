@@ -47,3 +47,4 @@
 - 50 [紫藤盃](https://mahjong.pub/admin.php?cid=50&amp;c_pw=tsdm) [分組](https://mahjong.pub/?cid=50#!class) [統計](https://mahjong.pub/?cid=50#!ranking)
 - 54 [明风智和杯表演赛](https://mahjong.pub/admin.php?cid=54&c_pw=mfzh) [分組](https://mahjong.pub/?cid=54#!class) [統計](https://mahjong.pub/?cid=54#!ranking)
 - 49 [萌戰盃廚團雀魂邀請賽](https://mahjong.pub/admin.php?cid=49&amp;c_pw=) [分組](https://mahjong.pub/?cid=49#!class) [統計](https://mahjong.pub/?cid=49#!ranking)
+- 60 [第3屆MCDS盃](https://mahjong.pub/admin.php?cid=60&c_pw=chichichi)  [分組](https://mahjong.pub/?cid=60#!class) [統計](https://mahjong.pub/?cid=60#!ranking)
