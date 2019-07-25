@@ -1,5 +1,6 @@
 ![](https://www.z4a.net/images/2018/08/01/u.png)
 
+>[備忘錄](note.md)  
 >[名單](list.md)  
 >[歷屆隊員](member.md)  
 >[萌間](moe.md)  
