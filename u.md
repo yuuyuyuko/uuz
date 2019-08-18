@@ -28,6 +28,7 @@
    - 4251 [TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=0LwHF4DedIkxcsIlpdpc6r)
    - 4252 [萌間](https://mahjong.pub/team.htm?t_pw=2pXUryNV1k89quZZ4rmcYC)
    - 4253 [醬油鋪](https://mahjong.pub/team.htm?t_pw=0OA4cKUYtS16VGLYKCZCgt)
+- 61 [英年盃夏季麻將賽](https://mahjong.pub/admin.php?cid=61&c_pw=yingnianbei?)  [分組](https://mahjong.pub/?cid=61#!class) [統計](https://mahjong.pub/?cid=61#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
@@ -43,4 +44,4 @@
 - 54 [明风智和杯表演赛](https://mahjong.pub/admin.php?cid=54&c_pw=mfzh) [分組](https://mahjong.pub/?cid=54#!class) [統計](https://mahjong.pub/?cid=54#!ranking)
 - 58 [第2屆大河盃](https://mahjong.pub/admin.php?cid=58&amp;c_pw=dhdhd) [分組](https://mahjong.pub/?cid=58#!class) [統計](https://mahjong.pub/?cid=58#!ranking)
 - 59 [東方盃M3麻將比賽](https://mahjong.pub/admin.php?cid=59&c_pw=dfbm3)  [分組](https://mahjong.pub/?cid=59#!class) [統計](https://mahjong.pub/?cid=59#!ranking)
-- 60 [第3屆MCDS盃](https://mahjong.pub/admin.php?cid=60&c_pw=chichichi)  [分組](https://mahjong.pub/?cid=60#!class) [統計](https://mahjong.pub/?cid=60#!ranking)
+- 63 [第一届语kata杯](https://mahjong.pub/admin.php?cid=63&c_pw=yukatabei)  [分組](https://mahjong.pub/?cid=63#!class) [統計](https://mahjong.pub/?cid=63#!ranking)
