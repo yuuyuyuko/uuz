@@ -28,6 +28,7 @@
    - 4251 [TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=0LwHF4DedIkxcsIlpdpc6r)
    - 4252 [萌間](https://mahjong.pub/team.htm?t_pw=2pXUryNV1k89quZZ4rmcYC)
    - 4253 [醬油鋪](https://mahjong.pub/team.htm?t_pw=0OA4cKUYtS16VGLYKCZCgt)
+   - 4320 [梓川女子](https://mahjong.pub/team.htm?t_pw=1HPGolh=itiIem=VmI2gk6)
 - 63 [第一届语kata杯](https://mahjong.pub/admin.php?cid=63&c_pw=yukatabei)  [分組](https://mahjong.pub/?cid=63#!class) [統計](https://mahjong.pub/?cid=63#!ranking)
 
 已完結賽事
