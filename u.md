@@ -18,7 +18,8 @@
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-- 63 [第一届语kata杯](https://mahjong.pub/admin.php?cid=63&c_pw=yukatabei)  [分組](https://mahjong.pub/?cid=63#!class) [統計](https://mahjong.pub/?cid=63#!ranking)
+- 69 [立直麻將網絡聯賽](https://mahjong.pub/admin.php?cid=69&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=69#!class) [統計](https://mahjong.pub/?cid=69#!ranking)
+- 70 [立直麻將網絡聯賽次級聯賽](https://mahjong.pub/admin.php?cid=70&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=70#!class) [統計](https://mahjong.pub/?cid=70#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
@@ -38,3 +39,4 @@
 - 58 [第2屆大河盃](https://mahjong.pub/admin.php?cid=58&amp;c_pw=dhdhd) [分組](https://mahjong.pub/?cid=58#!class) [統計](https://mahjong.pub/?cid=58#!ranking)
 - 59 [東方盃M3麻將比賽](https://mahjong.pub/admin.php?cid=59&c_pw=dfbm3)  [分組](https://mahjong.pub/?cid=59#!class) [統計](https://mahjong.pub/?cid=59#!ranking)
 - 61 [英年杯夏季麻将赛](https://mahjong.pub/admin.php?cid=61&c_pw=yingnianbei?)  [分組](https://mahjong.pub/?cid=61#!class) [統計](https://mahjong.pub/?cid=61#!ranking)
+- 63 [第一届语kata杯](https://mahjong.pub/admin.php?cid=63&c_pw=yukatabei)  [分組](https://mahjong.pub/?cid=63#!class) [統計](https://mahjong.pub/?cid=63#!ranking)
