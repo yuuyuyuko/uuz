@@ -18,8 +18,8 @@
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-- 69 [立直麻將網絡聯賽](https://mahjong.pub/admin.php?cid=69&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=69#!class) [統計](https://mahjong.pub/?cid=69#!ranking)
-- 70 [立直麻將網絡聯賽次級聯賽](https://mahjong.pub/admin.php?cid=70&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=70#!class) [統計](https://mahjong.pub/?cid=70#!ranking)
+- 69 [全国立直麻将网络联赛-主级联赛](https://mahjong.pub/admin.php?cid=69&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=69#!class) [統計](https://mahjong.pub/?cid=69#!ranking)
+- 70 [全国立直麻将网络联赛-次分区](https://mahjong.pub/admin.php?cid=70&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=70#!class) [統計](https://mahjong.pub/?cid=70#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
