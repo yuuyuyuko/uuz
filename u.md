@@ -22,6 +22,7 @@
 - 70 [全国立直麻将网络联赛-次分区](https://mahjong.pub/admin.php?cid=70&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=70#!class) [統計](https://mahjong.pub/?cid=70#!ranking)
     - 4702 [萌間](https://mahjong.pub/team.htm?t_pw=0FB8Y@gZvwgqGRklQCR5NJ)
     - 4712 [梓川女子](https://mahjong.pub/team.htm?t_pw=1IZtv0eW5fpNPMGtAwrZOZ)
+- 74 [第三屆芳文盃](https://mahjong.pub/admin/#?cid=74&c_pw=fangwenbeibei) [分組](https://mahjong.pub/?cid=74#!class) [統計](https://mahjong.pub/?cid=74#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
