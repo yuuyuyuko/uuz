@@ -7,7 +7,6 @@
 >[萌間](moe.md)  
 >[2018](2018.md)  
 >[2019](2019.md)  
->[qq](http://qun.qzone.qq.com/group#!/816491521/share)
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
@@ -24,6 +23,7 @@
     - 4702 [萌間](https://mahjong.pub/team.htm?t_pw=0FB8Y@gZvwgqGRklQCR5NJ)
     - 4712 [梓川女子](https://mahjong.pub/team.htm?t_pw=1IZtv0eW5fpNPMGtAwrZOZ)
 - 74 [第三屆芳文盃](https://mahjong.pub/admin/#?cid=74&c_pw=fangwenbeibei) [分組](https://mahjong.pub/?cid=74#!class) [統計](https://mahjong.pub/?cid=74#!ranking)
+- 76 [第三屆大河盃](https://mahjong.pub/admin/#?cid=76&c_pw=ddddhhhhbbbb) [分組](https://mahjong.pub/?cid=76#!class) [統計](https://mahjong.pub/?cid=76#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
