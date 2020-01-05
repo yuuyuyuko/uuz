@@ -22,7 +22,6 @@
 - 70 [全国立直麻将网络联赛-次分区](https://mahjong.pub/admin.php?cid=70&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=70#!class) [統計](https://mahjong.pub/?cid=70#!ranking)
     - 4702 [萌間](https://mahjong.pub/team.htm?t_pw=0FB8Y@gZvwgqGRklQCR5NJ)
     - 4712 [梓川女子](https://mahjong.pub/team.htm?t_pw=1IZtv0eW5fpNPMGtAwrZOZ)
-- 74 [第三屆芳文盃](https://mahjong.pub/admin/#?cid=74&c_pw=fangwenbeibei) [分組](https://mahjong.pub/?cid=74#!class) [統計](https://mahjong.pub/?cid=74#!ranking)
 - 76 [第三屆大河盃](https://mahjong.pub/admin/#?cid=76&c_pw=ddddhhhhbbbb) [分組](https://mahjong.pub/?cid=76#!class) [統計](https://mahjong.pub/?cid=76#!ranking)
 
 已完結賽事
@@ -44,3 +43,4 @@
 - 59 [東方盃M3麻將比賽](https://mahjong.pub/admin.php?cid=59&c_pw=dfbm3)  [分組](https://mahjong.pub/?cid=59#!class) [統計](https://mahjong.pub/?cid=59#!ranking)
 - 61 [英年杯夏季麻将赛](https://mahjong.pub/admin.php?cid=61&c_pw=yingnianbei?)  [分組](https://mahjong.pub/?cid=61#!class) [統計](https://mahjong.pub/?cid=61#!ranking)
 - 63 [第一届语kata杯](https://mahjong.pub/admin.php?cid=63&c_pw=yukatabei)  [分組](https://mahjong.pub/?cid=63#!class) [統計](https://mahjong.pub/?cid=63#!ranking)
+- 74 [第三屆芳文盃](https://mahjong.pub/admin/#?cid=74&c_pw=fangwenbeibei) [分組](https://mahjong.pub/?cid=74#!class) [統計](https://mahjong.pub/?cid=74#!ranking)
