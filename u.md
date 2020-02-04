@@ -23,6 +23,7 @@
     - 4702 [萌間](https://mahjong.pub/team.htm?t_pw=0FB8Y@gZvwgqGRklQCR5NJ)
     - 4712 [梓川女子](https://mahjong.pub/team.htm?t_pw=1IZtv0eW5fpNPMGtAwrZOZ)
 - 76 [第三屆大河盃](https://mahjong.pub/admin/#?cid=76&c_pw=ddddhhhhbbbb) [分組](https://mahjong.pub/?cid=76#!class) [統計](https://mahjong.pub/?cid=76#!ranking)
+- 77 [神社杯S5](https://mahjong.pub/admin/#?cid=77&c_pw=shenshes5) [分組](https://mahjong.pub/?cid=77#!class) [統計](https://mahjong.pub/?cid=77#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
