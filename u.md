@@ -21,8 +21,8 @@
 - 70 [全国立直麻将网络联赛-次分区](https://mahjong.pub/admin.php?cid=70&amp;c_pw=saki) [分組](https://mahjong.pub/?cid=70#!class) [統計](https://mahjong.pub/?cid=70#!ranking)
     - 4702 [萌間](https://mahjong.pub/team.htm?t_pw=0FB8Y@gZvwgqGRklQCR5NJ)
     - 4712 [梓川女子](https://mahjong.pub/team.htm?t_pw=1IZtv0eW5fpNPMGtAwrZOZ)
-- 77 [神社杯S5](https://mahjong.pub/admin/#?cid=77&c_pw=shenshes5) [分組](https://mahjong.pub/?cid=77#!class) [統計](https://mahjong.pub/?cid=77#!ranking)  
-    - 5286 [轻库娘](https://mahjong.pub/team.htm?t_pw=2zZqDzcamOht07ZEMES9H5)
+- 77 [神社杯S5](https://mahjong.pub/admin/#?cid=77&c_pw=shenshes5) [分組](https://mahjong.pub/?cid=77#!class) [統計](https://mahjong.pub/?cid=77#!ranking)
+    - 5286 [轻库娘](https://mahjong.pub/team.htm?t_pw=2zZqDzcamOht07ZEMES9H5)
 - 78 [第二屆嚶嚶盃](https://mahjong.pub/admin/#?cid=78&c_pw=ying) [分組](https://mahjong.pub/?cid=78#!class) [統計](https://mahjong.pub/?cid=78#!ranking)
 
 已完結賽事
