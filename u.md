@@ -23,8 +23,9 @@
     - 4712 [梓川女子](https://mahjong.pub/team.htm?t_pw=1IZtv0eW5fpNPMGtAwrZOZ)
 - 77 [神社杯S5](https://mahjong.pub/admin/#?cid=77&c_pw=shenshes5) [分組](https://mahjong.pub/?cid=77#!class) [統計](https://mahjong.pub/?cid=77#!ranking)
     - 5286 [轻库娘](https://mahjong.pub/team.htm?t_pw=2zZqDzcamOht07ZEMES9H5)
-- 78 [第二屆嚶嚶盃](https://mahjong.pub/admin/#?cid=78&c_pw=ying) [分組](https://mahjong.pub/?cid=78#!class) [統計](https://mahjong.pub/?cid=78#!ranking)
 - 79 [全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=79&c_pw=gaoxiaotuanti) [分組](https://mahjong.pub/?cid=79#!class) [統計](https://mahjong.pub/?cid=79#!ranking)
+- 80 [第八届断幺结社团体赛](https://mahjong.pub/admin/#?cid=80&c_pw=duanyao@@) [分組](https://mahjong.pub/?cid=80#!class) [統計](https://mahjong.pub/?cid=80#!ranking)
+- 81 [第三屆紫藤盃雙人CP賽](https://mahjong.pub/admin/#?cid=81&c_pw=@ziteng@) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
@@ -48,3 +49,4 @@
 - 64 [断幺结社立直麻将赛](https://mahjong.pub/admin.php?cid=64&amp;c_pw=moumoubei) [分組](https://mahjong.pub/?cid=64#!class) [統計](https://mahjong.pub/?cid=64#!ranking)
 - 74 [第三屆芳文盃](https://mahjong.pub/admin/#?cid=74&c_pw=fangwenbeibei) [分組](https://mahjong.pub/?cid=74#!class) [統計](https://mahjong.pub/?cid=74#!ranking)
 - 76 [第三屆大河盃](https://mahjong.pub/admin/#?cid=76&c_pw=ddddhhhhbbbb) [分組](https://mahjong.pub/?cid=76#!class) [統計](https://mahjong.pub/?cid=76#!ranking)
+- 78 [第二屆嚶嚶盃](https://mahjong.pub/admin/#?cid=78&c_pw=ying) [分組](https://mahjong.pub/?cid=78#!class) [統計](https://mahjong.pub/?cid=78#!ranking)
