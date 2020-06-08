@@ -24,6 +24,7 @@
 - 81 [第三屆紫藤盃雙人CP賽](https://mahjong.pub/admin/#?cid=81&c_pw=@ziteng@) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 - 82 [第三届王座杯](https://mahjong.pub/admin/#?cid=82&c_pw=@3@wangzuo) [分組](https://mahjong.pub/?cid=82#!class) [統計](https://mahjong.pub/?cid=82#!ranking)
    - 5501 [TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=3jJTgUIlAjF9hcx4DoABGr)
+- 83 [第七届英年杯祝仪赛](https://mahjong.pub/admin/#?cid=83&c_pw=@@7@@yingnian@@) [分組](https://mahjong.pub/?cid=83#!class) [統計](https://mahjong.pub/?cid=83#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
