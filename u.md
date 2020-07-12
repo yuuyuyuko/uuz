@@ -17,10 +17,8 @@
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-- 80 [第八届断幺结社团体赛](https://mahjong.pub/admin/#?cid=80&c_pw=duanyao@@) [分組](https://mahjong.pub/?cid=80#!class) [統計](https://mahjong.pub/?cid=80#!ranking)
 - 81 [第三屆紫藤盃雙人CP賽](https://mahjong.pub/admin/#?cid=81&c_pw=@ziteng@) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 - 82 [第三届王座杯](https://mahjong.pub/admin/#?cid=82&c_pw=@3@wangzuo) [分組](https://mahjong.pub/?cid=82#!class) [統計](https://mahjong.pub/?cid=82#!ranking)
-   - 5501 [TSDM麻雀部](https://mahjong.pub/team.htm?t_pw=3jJTgUIlAjF9hcx4DoABGr)
 - 83 [第七届英年杯祝仪赛](https://mahjong.pub/admin/#?cid=83&c_pw=@@7@@yingnian@@) [分組](https://mahjong.pub/?cid=83#!class) [統計](https://mahjong.pub/?cid=83#!ranking)
 - 84 [全国立直麻将网络联赛——全国大赛](https://mahjong.pub/admin/#?cid=84&c_pw=@@@qgds@@@) [分組](https://mahjong.pub/?cid=84#!class) [統計](https://mahjong.pub/?cid=84#!ranking)
 
@@ -51,3 +49,4 @@
 - 76 [第三屆大河盃](https://mahjong.pub/admin/#?cid=76&c_pw=ddddhhhhbbbb) [分組](https://mahjong.pub/?cid=76#!class) [統計](https://mahjong.pub/?cid=76#!ranking)
 - 78 [第二屆嚶嚶盃](https://mahjong.pub/admin/#?cid=78&c_pw=ying) [分組](https://mahjong.pub/?cid=78#!class) [統計](https://mahjong.pub/?cid=78#!ranking)
 - 79 [全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=79&c_pw=gaoxiaotuanti) [分組](https://mahjong.pub/?cid=79#!class) [統計](https://mahjong.pub/?cid=79#!ranking)
+- 80 [第八届断幺结社团体赛](https://mahjong.pub/admin/#?cid=80&c_pw=duanyao@@) [分組](https://mahjong.pub/?cid=80#!class) [統計](https://mahjong.pub/?cid=80#!ranking)
