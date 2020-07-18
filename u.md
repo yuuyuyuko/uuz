@@ -21,7 +21,7 @@
 - 82 [第三届王座杯](https://mahjong.pub/admin/#?cid=82&c_pw=@3@wangzuo) [分組](https://mahjong.pub/?cid=82#!class) [統計](https://mahjong.pub/?cid=82#!ranking)
 - 83 [第七届英年杯祝仪赛](https://mahjong.pub/admin/#?cid=83&c_pw=@@7@@yingnian@@) [分組](https://mahjong.pub/?cid=83#!class) [統計](https://mahjong.pub/?cid=83#!ranking)
 - 84 [全国立直麻将网络联赛——全国大赛](https://mahjong.pub/admin/#?cid=84&c_pw=@@@qgds@@@) [分組](https://mahjong.pub/?cid=84#!class) [統計](https://mahjong.pub/?cid=84#!ranking)23
-- 85 [福州大学邀请赛](https://mahjong.pub/admin/#?cid=85&c_pw=@@FZDX@@YQS) [分組](https://mahjong.pub/?cid=85#!class) [統計](https://mahjong.pub/?cid=85#!ranking)
+- 86 [福州大学邀请赛](https://mahjong.pub/admin/#?cid=85&c_pw=@@FZDX@@YQS) [分組](https://mahjong.pub/?cid=85#!class) [統計](https://mahjong.pub/?cid=85#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
