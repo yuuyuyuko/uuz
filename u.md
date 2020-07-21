@@ -18,7 +18,7 @@
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
 - 81 [第三屆紫藤盃雙人CP賽](https://mahjong.pub/admin/#?cid=81&c_pw=@ziteng@) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
-- 86 [福州大学邀请赛](https://mahjong.pub/admin/#?cid=86&c_pw=@@FZDX@@YQS) [分組](https://mahjong.pub/?cid=85#!class) [統計](https://mahjong.pub/?cid=85#!ranking)
+- 86 [福州大学邀请赛](https://mahjong.pub/admin/#?cid=86&c_pw=@@FZDX@@YQS) [分組](https://mahjong.pub/?cid=86#!class) [統計](https://mahjong.pub/?cid=86#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
