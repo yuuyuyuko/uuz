@@ -19,7 +19,7 @@
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
 - 81 [第三屆紫藤盃雙人CP賽](https://mahjong.pub/admin/#?cid=81&c_pw=@ziteng@) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 - 88 [神社杯S6](https://mahjong.pub/admin/#?cid=88&c_pw=@S@S@6@) [分組](https://mahjong.pub/?cid=88#!class) [統計](https://mahjong.pub/?cid=88#!ranking)
-- 89 [第二届秀一杯](https://mahjong.pub/admin/#?cid=89&c_pw=xiuyi) [分組](https://mahjong.pub/?cid=89#!class) [統計](https://mahjong.pub/?cid=89#!ranking)50
+- 89 [第二届秀一杯](https://mahjong.pub/admin/#?cid=89&c_pw=xiuyi) [分組](https://mahjong.pub/?cid=89#!class) [統計](https://mahjong.pub/?cid=89#!ranking)
 - 90 [全国立直麻将网络联赛S4-主联赛](https://mahjong.pub/admin/#?cid=90&c_pw=saki) [分組](https://mahjong.pub/?cid=90#!class) [統計](https://mahjong.pub/?cid=90#!ranking)
 - 91 [全国立直麻将网络联赛S4-次联赛](https://mahjong.pub/admin/#?cid=91&c_pw=saki) [分組](https://mahjong.pub/?cid=91#!class) [統計](https://mahjong.pub/?cid=91#!ranking)
 
