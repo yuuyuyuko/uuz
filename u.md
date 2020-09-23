@@ -22,6 +22,7 @@
 - 89 [第二届秀一杯](https://mahjong.pub/admin/#?cid=89&c_pw=xiuyi) [分組](https://mahjong.pub/?cid=89#!class) [統計](https://mahjong.pub/?cid=89#!ranking)
 - 90 [全国立直麻将网络联赛S4-主联赛](https://mahjong.pub/admin/#?cid=90&c_pw=saki) [分組](https://mahjong.pub/?cid=90#!class) [統計](https://mahjong.pub/?cid=90#!ranking)
 - 91 [全国立直麻将网络联赛S4-次联赛](https://mahjong.pub/admin/#?cid=91&c_pw=saki) [分組](https://mahjong.pub/?cid=91#!class) [統計](https://mahjong.pub/?cid=91#!ranking)
+- 92 [上海高校立直麻将联赛](https://mahjong.pub/admin/#?cid=92&c_pw=gxls) [分組](https://mahjong.pub/?cid=92#!class) [統計](https://mahjong.pub/?cid=92#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
