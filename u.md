@@ -21,6 +21,7 @@
 - 88 [神社杯S6](https://mahjong.pub/admin/#?cid=88&c_pw=@S@S@6@) [分組](https://mahjong.pub/?cid=88#!class) [統計](https://mahjong.pub/?cid=88#!ranking)
 - 90 [全国立直麻将网络联赛S4-主联赛](https://mahjong.pub/admin/#?cid=90&c_pw=saki) [分組](https://mahjong.pub/?cid=90#!class) [統計](https://mahjong.pub/?cid=90#!ranking)
 - 91 [全国立直麻将网络联赛S4-次联赛](https://mahjong.pub/admin/#?cid=91&c_pw=saki) [分組](https://mahjong.pub/?cid=91#!class) [統計](https://mahjong.pub/?cid=91#!ranking)
+   - 6032 [萌間](https://mahjong.pub/team.htm?t_pw=3O7VaJEEbDjHaNuXnvlifl)
 - 92 [上海高校立直麻将联赛](https://mahjong.pub/admin/#?cid=92&c_pw=gxls) [分組](https://mahjong.pub/?cid=92#!class) [統計](https://mahjong.pub/?cid=92#!ranking)
 - 93 [觉王山四麻团体赛](https://mahjong.city/admin/#?cid=93&c_pw=jjww@@) [分組](https://mahjong.pub/?cid=93#!class) [統計](https://mahjong.pub/?cid=93#!ranking)
 - 94 [覺王山三麻團體賽](https://mahjong.city/admin/#?cid=94&c_pw=jjww@@) [分組](https://mahjong.pub/?cid=94#!class) [統計](https://mahjong.pub/?cid=94#!ranking)
