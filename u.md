@@ -25,6 +25,7 @@
 - 92 [上海高校立直麻将联赛](https://mahjong.pub/admin/#?cid=92&c_pw=gxls) [分組](https://mahjong.pub/?cid=92#!class) [統計](https://mahjong.pub/?cid=92#!ranking)
 - 93 [觉王山四麻团体赛](https://mahjong.city/admin/#?cid=93&c_pw=jjww@@) [分組](https://mahjong.pub/?cid=93#!class) [統計](https://mahjong.pub/?cid=93#!ranking)
 - 94 [覺王山三麻團體賽](https://mahjong.city/admin/#?cid=94&c_pw=jjww@@) [分組](https://mahjong.pub/?cid=94#!class) [統計](https://mahjong.pub/?cid=94#!ranking)
+- 95 [上海高校立直麻将联赛](https://mahjong.pub/admin/#?cid=92&c_pw=gxls@) [分組](https://mahjong.pub/?cid=92#!class) [統計](https://mahjong.pub/?cid=92#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
