@@ -21,7 +21,7 @@
 - 91 [全國立直麻將網絡聯賽S4-次聯賽](https://mahjong.pub/admin/#?cid=91&c_pw=saki) [分組](https://mahjong.pub/?cid=91#!class) [統計](https://mahjong.pub/?cid=91#!ranking)
     - 6032 [萌間](https://mahjong.pub/team.htm?t_pw=3O7VaJEEbDjHaNuXnvlifl)
 - 97 [兰德索尔雀魂团体赛S1](https://mahjong.pub/admin/#?cid=97&c_pw=SS11@@) [分組](https://mahjong.pub/?cid=97#!class) [統計](https://mahjong.pub/?cid=97#!ranking)
-- 99 [2021年春断幺结社雀魂团体赛](https://mahjong.pub/admin/#?cid=99&c_pw=191919) [分組](https://mahjong.pub/?cid=99#!class) [統計](https://mahjong.pub/?cid=99#!ranking)
+- 99 [2021年春断幺结社雀魂团体赛](https://mahjong.pub/admin/#?cid=99&c_pw=19@19@19) [分組](https://mahjong.pub/?cid=99#!class) [統計](https://mahjong.pub/?cid=99#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
