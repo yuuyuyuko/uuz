@@ -1,7 +1,6 @@
 ![](https://www.z4a.net/images/2020/02/08/u.png)
 
 ### 常用鏈接  
->[備忘錄](note.md)  
 >[名單](list.md)  
 >[歷屆隊員](member.md)  
 >[萌間](moe.md)  
