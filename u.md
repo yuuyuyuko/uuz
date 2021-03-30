@@ -21,6 +21,7 @@
 - 103 [神社杯S7](https://mahjong.pub/admin/#?cid=103&c_pw=S@7) [分組](https://mahjong.pub/?cid=103#!class) [統計](https://mahjong.pub/?cid=103#!ranking)
 - 104 [第四届芳文杯](https://mahjong.pub/admin/#?cid=104&c_pw=fw@4) [分組](https://mahjong.pub/?cid=104#!class) [統計](https://mahjong.pub/?cid=104#!ranking)
 - 105 [第一届明美杯团体赛](https://mahjong.pub/admin/#?cid=105&c_pw=mm@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
+- 106 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=106&c_pw=@@@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
@@ -63,7 +64,7 @@
 - 92 [上海高校立直麻将联赛](https://mahjong.pub/admin/#?cid=92&c_pw=gxls) [分組](https://mahjong.pub/?cid=92#!class) [統計](https://mahjong.pub/?cid=92#!ranking)
 - 93 [觉王山四麻团体赛](https://mahjong.city/admin/#?cid=93&c_pw=jjww@@) [分組](https://mahjong.pub/?cid=93#!class) [統計](https://mahjong.pub/?cid=93#!ranking)
 - 94 [覺王山三麻團體賽](https://mahjong.city/admin/#?cid=94&c_pw=jjww@@) [分組](https://mahjong.pub/?cid=94#!class) [統計](https://mahjong.pub/?cid=94#!ranking)
-- 95 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=95&c_pw=qggx) [分組](https://mahjong.pub/?cid=95#!class) [統計](https://mahjong.pub/?cid=95#!ranking)
+- 95 [全國大賽](https://mahjong.pub/admin/#?cid=95&c_pw=qgds) [分組](https://mahjong.pub/?cid=95#!class) [統計](https://mahjong.pub/?cid=95#!ranking)
 - 97 [兰德索尔雀魂团体赛S1](https://mahjong.pub/admin/#?cid=97&c_pw=SS11@@) [分組](https://mahjong.pub/?cid=97#!class) [統計](https://mahjong.pub/?cid=97#!ranking)
 - 99 [2021年春断幺结社雀魂团体赛](https://mahjong.pub/admin/#?cid=99&c_pw=19@19@19) [分組](https://mahjong.pub/?cid=99#!class) [統計](https://mahjong.pub/?cid=99#!ranking)
 - 102 [立直麻将同好会对外交流赛](https://mahjong.pub/admin/#?cid=102&c_pw=L@Z) [分組](https://mahjong.pub/?cid=102#!class) [統計](https://mahjong.pub/?cid=102#!ranking)
