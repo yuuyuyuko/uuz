@@ -21,7 +21,7 @@
 - 103 [神社杯S7](https://mahjong.pub/admin/#?cid=103&c_pw=S@7) [分組](https://mahjong.pub/?cid=103#!class) [統計](https://mahjong.pub/?cid=103#!ranking)
 - 104 [第四届芳文杯](https://mahjong.pub/admin/#?cid=104&c_pw=fw@4) [分組](https://mahjong.pub/?cid=104#!class) [統計](https://mahjong.pub/?cid=104#!ranking)
 - 105 [第一届明美杯团体赛](https://mahjong.pub/admin/#?cid=105&c_pw=mm@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
-- 106 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=106&c_pw=@@@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
+- 106 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=106&c_pw=@@@@@@) [分組](https://mahjong.pub/?cid=106#!class) [統計](https://mahjong.pub/?cid=106#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
