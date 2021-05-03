@@ -19,7 +19,6 @@
     - 6032 [萌間](https://mahjong.pub/team.htm?t_pw=3O7VaJEEbDjHaNuXnvlifl)
 - 101 [第四屆紫藤杯](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 103 [神社杯S7](https://mahjong.pub/admin/#?cid=103&c_pw=S@7) [分組](https://mahjong.pub/?cid=103#!class) [統計](https://mahjong.pub/?cid=103#!ranking)
-- 105 [第一届明美杯团体赛](https://mahjong.pub/admin/#?cid=105&c_pw=mm@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
 - 106 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=106&c_pw=@@@@@@) [分組](https://mahjong.pub/?cid=106#!class) [統計](https://mahjong.pub/?cid=106#!ranking)
 - 107 [第四届王座杯](https://mahjong.pub/admin/#?cid=107&c_pw=wz@4) [分組](https://mahjong.pub/?cid=107#!class) [統計](https://mahjong.pub/?cid=107#!ranking)
 - 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
@@ -71,3 +70,4 @@
 - 99 [2021年春断幺结社雀魂团体赛](https://mahjong.pub/admin/#?cid=99&c_pw=19@19@19) [分組](https://mahjong.pub/?cid=99#!class) [統計](https://mahjong.pub/?cid=99#!ranking)
 - 102 [立直麻将同好会对外交流赛](https://mahjong.pub/admin/#?cid=102&c_pw=L@Z) [分組](https://mahjong.pub/?cid=102#!class) [統計](https://mahjong.pub/?cid=102#!ranking)
 - 104 [第四届芳文杯](https://mahjong.pub/admin/#?cid=104&c_pw=fw@4) [分組](https://mahjong.pub/?cid=104#!class) [統計](https://mahjong.pub/?cid=104#!ranking)
+- 105 [第一届明美杯团体赛](https://mahjong.pub/admin/#?cid=105&c_pw=mm@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
