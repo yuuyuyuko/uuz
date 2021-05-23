@@ -11,7 +11,6 @@
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-    - 6032 [萌間](https://mahjong.pub/team.htm?t_pw=3O7VaJEEbDjHaNuXnvlifl)
 - 101 [第四屆紫藤杯](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 103 [神社杯S7](https://mahjong.pub/admin/#?cid=103&c_pw=S@7) [分組](https://mahjong.pub/?cid=103#!class) [統計](https://mahjong.pub/?cid=103#!ranking)
 - 106 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=106&c_pw=@@@@@@) [分組](https://mahjong.pub/?cid=106#!class) [統計](https://mahjong.pub/?cid=106#!ranking)
