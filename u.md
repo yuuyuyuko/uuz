@@ -16,6 +16,7 @@
 - 107 [第四届王座杯](https://mahjong.pub/admin/#?cid=107&c_pw=wz@4) [分組](https://mahjong.pub/?cid=107#!class) [統計](https://mahjong.pub/?cid=107#!ranking)
 - 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
 - 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
+    - 7043 [萌間	](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
