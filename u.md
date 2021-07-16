@@ -14,7 +14,8 @@
 - 101 [TSDM](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
 - 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
-   - 7043 [萌間](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)
+   - 7043 [萌間](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)16
+- 110 [全國立直麻將網絡聯賽S5-次聯賽](https://mahjong.pub/admin/#?cid=110&c_pw=110) [分組](https://mahjong.pub/?cid=110#!class) [統計](https://mahjong.pub/?cid=110#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
