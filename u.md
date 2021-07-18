@@ -16,6 +16,11 @@
 - 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
    - 7043 [萌間](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)
 - 110 [第一届切克闹杯](https://mahjong.pub/admin/#?cid=110&c_pw=110) [分組](https://mahjong.pub/?cid=110#!class) [統計](https://mahjong.pub/?cid=110#!ranking)
+- 111 [第三屆天使杯](https://mahjong.pub/admin/#?cid=111&c_pw=111) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
+- 112 [第三届西南高校立直麻将联赛](https://mahjong.pub/admin/#?cid=112&c_pw=112) [分組](https://mahjong.pub/?cid=112#!class) [統計](https://mahjong.pub/?cid=112#!ranking)
+- 113 [东方杯M5·风神录](https://mahjong.pub/admin/#?cid=113&c_pw=113) [分組](https://mahjong.pub/?cid=113#!class) [統計](https://mahjong.pub/?cid=113#!ranking)
+- 114 [福大](https://mahjong.pub/admin/#?cid=114&c_pw=114) [分組](https://mahjong.pub/?cid=114#!class) [統計](https://mahjong.pub/?cid=114#!ranking)
+- 115 [福大](https://mahjong.pub/admin/#?cid=115&c_pw=115) [分組](https://mahjong.pub/?cid=115#!class) [統計](https://mahjong.pub/?cid=115#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
