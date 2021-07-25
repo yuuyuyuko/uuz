@@ -4,9 +4,6 @@
 
 進行中賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
-   - 3172 [萌間](https://mahjong.pub/team.htm?t_pw=3wlAlSPl1m0N4cFN5T@DzA)
-   - 3239 [梓川女子](https://mahjong.pub/team.htm?t_pw=1qey9O10wPRkb3oBSlUeEt)
-   - 3733 [八桝](https://mahjong.pub/team.htm?t_pw=3XjJg43mpUf8STqbaPdnF4)
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yysyys) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
