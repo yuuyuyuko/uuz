@@ -17,9 +17,9 @@
 - 112 [第三届西南高校立直麻将联赛](https://mahjong.pub/admin/#?cid=112&c_pw=xnls) [分組](https://mahjong.pub/?cid=112#!class) [統計](https://mahjong.pub/?cid=112#!ranking)
 - 113 [第三届兔兔哈杯团体赛](https://mahjong.pub/admin/#?cid=113&c_pw=ttth) [分組](https://mahjong.pub/?cid=113#!class) [統計](https://mahjong.pub/?cid=113#!ranking)
 - 114 [第二届福大杯Ex赛区](https://mahjong.pub/admin/#?cid=114&c_pw=114) [分組](https://mahjong.pub/?cid=114#!class) [統計](https://mahjong.pub/?cid=114#!ranking)
-- 115[第二届福大杯N赛区](https://mahjong.pub/admin/#?cid=115&c_pw=115) [分組](https://mahjong.pub/?cid=115#!class) [統計](https://mahjong.pub/?cid=115#!ranking)
-- 116[東方·M5](https://mahjong.pub/admin/#?cid=116&c_pw=116116) [分組](https://mahjong.pub/?cid=116#!class) [統計](https://mahjong.pub/?cid=116#!ranking)
-- 117[第二屆萌幻之鄉團體賽](https://mahjong.pub/admin/#?cid=117&c_pw=117117) [分組](https://mahjong.pub/?cid=117#!class) [統計](https://mahjong.pub/?cid=117#!ranking)
+- 115 [第二届福大杯N赛区](https://mahjong.pub/admin/#?cid=115&c_pw=115) [分組](https://mahjong.pub/?cid=115#!class) [統計](https://mahjong.pub/?cid=115#!ranking)
+- 116 [東方·M5](https://mahjong.pub/admin/#?cid=116&c_pw=116116) [分組](https://mahjong.pub/?cid=116#!class) [統計](https://mahjong.pub/?cid=116#!ranking)
+- 117 [第二屆萌幻之鄉團體賽](https://mahjong.pub/admin/#?cid=117&c_pw=117117) [分組](https://mahjong.pub/?cid=117#!class) [統計](https://mahjong.pub/?cid=117#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
