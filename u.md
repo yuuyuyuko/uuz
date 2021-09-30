@@ -15,7 +15,7 @@
 - 111 [第三屆天使杯](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
 - 116 [東方·M5](https://mahjong.pub/admin/#?cid=116&c_pw=116116) [分組](https://mahjong.pub/?cid=116#!class) [統計](https://mahjong.pub/?cid=116#!ranking)
 - 117 [第一届“告告杯”](https://mahjong.pub/admin/#?cid=117&c_pw=117117) [分組](https://mahjong.pub/?cid=117#!class) [統計](https://mahjong.pub/?cid=117#!ranking)
-- 119 [第一屆西望杯立直麻将邀请赛](https://mahjong.pub/admin/#?cid=118&c_pw=118118) [分組](https://mahjong.pub/?cid=118#!class) [統計](https://mahjong.pub/?cid=118#!ranking)
+- 118 [第一屆西望杯立直麻将邀请赛](https://mahjong.pub/admin/#?cid=118&c_pw=118118) [分組](https://mahjong.pub/?cid=118#!class) [統計](https://mahjong.pub/?cid=118#!ranking)
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
 - 120 [第一届白鹭杯](https://mahjong.pub/admin/#?cid=120&c_pw=120120) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
 
