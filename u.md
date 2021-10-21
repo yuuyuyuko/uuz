@@ -8,7 +8,7 @@
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-- 101 [TSDM群內賽](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
+- 101 [測試交流賽](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
 - 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
    - 7043 [萌間](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)
