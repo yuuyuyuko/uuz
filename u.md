@@ -12,7 +12,7 @@
 - 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
 - 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
    - 7043 [萌間](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)
-- 111 [第三屆天使杯](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
+- 111 [TSDM群內賽](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
 - 118 [第一屆西望杯立直麻将邀请赛](https://mahjong.pub/admin/#?cid=118&c_pw=118118) [分組](https://mahjong.pub/?cid=118#!class) [統計](https://mahjong.pub/?cid=118#!ranking)
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
   - 7253 [辉夜姬](https://mahjong.pub/team.htm?t_pw=r06yfw4m7muhu0lbswgk)
