@@ -17,7 +17,7 @@
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
   - 7253 [辉夜姬](https://mahjong.pub/team.htm?t_pw=r06yfw4m7muhu0lbswgk)
   - 7254 [早乙女芽亚里](https://mahjong.pub/team.htm?t_pw=r06yfw6abspkazttogo4)
-- 120 [第一届白鹭杯](https://mahjong.pub/admin/#?cid=120&c_pw=120120) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
+- 120 [全國立直麻將網絡聯賽S5-全國大賽](https://mahjong.pub/admin/#?cid=120&c_pw=saki) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
