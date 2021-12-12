@@ -9,14 +9,9 @@
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
 - 101 [測試交流賽](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
-- 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
-- 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
-   - 7043 [萌間](https://mahjong.pub/team.htm?t_pw=qt4lpy1878doclsxy8ks)
 - 111 [TSDM群內賽](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
-- 118 [第一屆西望杯立直麻将邀请赛](https://mahjong.pub/admin/#?cid=118&c_pw=648235) [分組](https://mahjong.pub/?cid=118#!class) [統計](https://mahjong.pub/?cid=118#!ranking)
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
   - 7253 [辉夜姬](https://mahjong.pub/team.htm?t_pw=r06yfw4m7muhu0lbswgk)
-  - 7254 [早乙女芽亚里](https://mahjong.pub/team.htm?t_pw=r06yfw6abspkazttogo4)
 - 120 [全國立直麻將網絡聯賽S5-全國大賽](https://mahjong.pub/admin/#?cid=120&c_pw=saki) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
 
 已完結賽事
@@ -69,6 +64,8 @@
 - 105 [第一届明美杯团体赛](https://mahjong.pub/admin/#?cid=105&c_pw=mm@@@@) [分組](https://mahjong.pub/?cid=105#!class) [統計](https://mahjong.pub/?cid=105#!ranking)
 - 106 [第二届全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=106&c_pw=@@@@@@) [分組](https://mahjong.pub/?cid=106#!class) [統計](https://mahjong.pub/?cid=106#!ranking)
 - 107 [第四届王座杯](https://mahjong.pub/admin/#?cid=107&c_pw=wz@4) [分組](https://mahjong.pub/?cid=107#!class) [統計](https://mahjong.pub/?cid=107#!ranking)
+- 108 [全国立直麻将网络联赛S5-主联赛](https://mahjong.pub/admin/#?cid=108&c_pw=saki) [分組](https://mahjong.pub/?cid=108#!class) [統計](https://mahjong.pub/?cid=108#!ranking)
+- 109 [全国立直麻将网络联赛S5-次联赛](https://mahjong.pub/admin/#?cid=109&c_pw=saki) [分組](https://mahjong.pub/?cid=109#!class) [統計](https://mahjong.pub/?cid=109#!ranking)
 - 110 [第一届切克闹杯](https://mahjong.pub/admin/#?cid=110&c_pw=110) [分組](https://mahjong.pub/?cid=110#!class) [統計](https://mahjong.pub/?cid=110#!ranking)
 - 112 [第三届西南高校立直麻将联赛](https://mahjong.pub/admin/#?cid=112&c_pw=xnls) [分組](https://mahjong.pub/?cid=112#!class) [統計](https://mahjong.pub/?cid=112#!ranking)
 - 113 [第三届兔兔哈杯团体赛](https://mahjong.pub/admin/#?cid=113&c_pw=ttth) [分組](https://mahjong.pub/?cid=113#!class) [統計](https://mahjong.pub/?cid=113#!ranking)
@@ -76,3 +73,4 @@
 - 115 [第二届福大杯N赛区](https://mahjong.pub/admin/#?cid=115&c_pw=115) [分組](https://mahjong.pub/?cid=115#!class) [統計](https://mahjong.pub/?cid=115#!ranking)
 - 116 [東方·M5](https://mahjong.pub/admin/#?cid=116&c_pw=116116) [分組](https://mahjong.pub/?cid=116#!class) [統計](https://mahjong.pub/?cid=116#!ranking)
 - 117 [第一届“告告杯”](https://mahjong.pub/admin/#?cid=117&c_pw=117117) [分組](https://mahjong.pub/?cid=117#!class) [統計](https://mahjong.pub/?cid=117#!ranking)
+- 118 [第一屆西望杯立直麻将邀请赛](https://mahjong.pub/admin/#?cid=118&c_pw=648235) [分組](https://mahjong.pub/?cid=118#!class) [統計](https://mahjong.pub/?cid=118#!ranking)
