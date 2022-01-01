@@ -13,6 +13,8 @@
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
   - 7253 [辉夜姬](https://mahjong.pub/team.htm?t_pw=r06yfw4m7muhu0lbswgk)
 - 120 [全國立直麻將網絡聯賽S5-全國大賽](https://mahjong.pub/admin/#?cid=120&c_pw=saki) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
+- 123 [備用](https://mahjong.pub/admin.php?cid=123&amp;c_pw=qlzz) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
+- 124 [備用](https://mahjong.pub/admin.php?cid=124&amp;c_pw=mjzcb) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
@@ -42,7 +44,7 @@
 - 78 [第二屆嚶嚶盃](https://mahjong.pub/admin/#?cid=78&c_pw=ying) [分組](https://mahjong.pub/?cid=78#!class) [統計](https://mahjong.pub/?cid=78#!ranking)
 - 79 [全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=79&c_pw=gaoxiaotuanti) [分組](https://mahjong.pub/?cid=79#!class) [統計](https://mahjong.pub/?cid=79#!ranking)
 - 80 [第八届断幺结社团体赛](https://mahjong.pub/admin/#?cid=80&c_pw=duanyao@@) [分組](https://mahjong.pub/?cid=80#!class) [統計](https://mahjong.pub/?cid=80#!ranking)
-- 81 [第三屆紫藤盃雙人CP賽](https://mahjong.pub/admin/#?cid=81&c_pw=@ziteng@) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
+- 81 [千里之子 团战季](https://mahjong.pub/admin/#?cid=81&c_pw=qlzz) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 - 82 [第三届王座杯](https://mahjong.pub/admin/#?cid=82&c_pw=@3@wangzuo) [分組](https://mahjong.pub/?cid=82#!class) [統計](https://mahjong.pub/?cid=82#!ranking)
 - 83 [第七届英年杯祝仪赛](https://mahjong.pub/admin/#?cid=83&c_pw=@@7@@yingnian@@) [分組](https://mahjong.pub/?cid=83#!class) [統計](https://mahjong.pub/?cid=83#!ranking)
 - 84 [全国立直麻将网络联赛——全国大赛](https://mahjong.pub/admin/#?cid=84&c_pw=@@@qgds@@@) [分組](https://mahjong.pub/?cid=84#!class) [統計](https://mahjong.pub/?cid=84#!ranking)
