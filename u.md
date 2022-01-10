@@ -8,13 +8,14 @@
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-- 101 [測試交流賽](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
+- 101 [彩羽杯邀请赛](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 111 [TSDM群內賽](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
   - 7253 [辉夜姬](https://mahjong.pub/team.htm?t_pw=r06yfw4m7muhu0lbswgk)
 - 120 [全國立直麻將網絡聯賽S5-全國大賽](https://mahjong.pub/admin/#?cid=120&c_pw=saki) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
 - 123 [備用](https://mahjong.pub/admin.php?cid=123&amp;c_pw=qlzz) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
 - 124 [備用](https://mahjong.pub/admin.php?cid=124&amp;c_pw=mjzcb) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
+- 125 [第五届芳文杯](https://mahjong.pub/admin.php?cid=125&amp;c_pw=fwbfwb) [分組](https://mahjong.pub/?cid=115#!class) [統計](https://mahjong.pub/?cid=125#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
