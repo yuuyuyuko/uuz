@@ -15,7 +15,7 @@
 - 120 [全國立直麻將網絡聯賽S5-全國大賽](https://mahjong.pub/admin/#?cid=120&c_pw=saki) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
 - 123 [備用](https://mahjong.pub/admin.php?cid=123&amp;c_pw=qlzz) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
 - 124 [備用](https://mahjong.pub/admin.php?cid=124&amp;c_pw=mjzcb) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
-- 125 [第五届芳文杯](https://mahjong.pub/admin.php?cid=125&amp;c_pw=fwbfwb) [分組](https://mahjong.pub/?cid=115#!class) [統計](https://mahjong.pub/?cid=125#!ranking)
+- 125 [第五届芳文杯](https://mahjong.pub/admin.php?cid=125&amp;c_pw=fwbfwb) [分組](https://mahjong.pub/?cid=125#!class) [統計](https://mahjong.pub/?cid=125#!ranking)
 
 已完結賽事
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
