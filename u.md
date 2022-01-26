@@ -3,22 +3,22 @@
 ### 常用鏈接  
 
 進行中賽事
-- 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yyds) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
     - 3593 [梓川女子](https://mahjong.pub/team.htm?t_pw=0fyly=@b1GmPZUOohORNJn)
     - 3736 [萌間](https://mahjong.pub/team.htm?t_pw=1@qD47ZeqYny0=EHzqGyRe)
     - 3770 [八桝](https://mahjong.pub/team.htm?t_pw=3HvDD0fvSlNqZi1pApiQTJ)
-- 101 [彩羽杯邀请赛](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 111 [TSDM群內賽](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
   - 7253 [辉夜姬](https://mahjong.pub/team.htm?t_pw=r06yfw4m7muhu0lbswgk)
 - 120 [全國立直麻將網絡聯賽S5-全國大賽](https://mahjong.pub/admin/#?cid=120&c_pw=saki) [分組](https://mahjong.pub/?cid=120#!class) [統計](https://mahjong.pub/?cid=120#!ranking)
-- 122 [第一届昴星团杯](https://mahjong.pub/admin.php?cid=122&amp;c_pw=maoxingtuan) [分組](https://mahjong.pub/?cid=122#!class) [統計](https://mahjong.pub/?cid=122#!ranking)
 - 123 [備用](https://mahjong.pub/admin.php?cid=123&amp;c_pw=qlzz) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
 - 124 [備用](https://mahjong.pub/admin.php?cid=124&amp;c_pw=mjzcb) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
 - 125 [第五届芳文杯](https://mahjong.pub/admin.php?cid=125&amp;c_pw=fwbfwb) [分組](https://mahjong.pub/?cid=125#!class) [統計](https://mahjong.pub/?cid=125#!ranking)
+- 126 [小芮杯](https://mahjong.pub/admin.php?cid=126&amp;c_pw=oighQtlHXw) [分組](https://mahjong.pub/?cid=126#!class) [統計](https://mahjong.pub/?cid=126#!ranking)
+
 
 已完結賽事
+- 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
 - 35 [第三屆圓角盃](https://mahjong.pub/admin.php?cid=35&amp;c_pw=yjbyjb3) [分組](https://mahjong.pub/?cid=35#!class) [統計](https://mahjong.pub/?cid=35#!ranking)
 - 36 [英年盃雙旦麻將賽](https://mahjong.pub/admin.php?cid=36&amp;c_pw=ynbynbnb) [分組](https://mahjong.pub/?cid=36#!class) [統計](https://mahjong.pub/?cid=36#!ranking)
 - 37 [【雀魂聯賽】花鳥風月盃](https://mahjong.pub/admin.php?cid=37&amp;c_pw=hnfy) [分組](https://mahjong.pub/?cid=37#!class) [統計](https://mahjong.pub/?cid=37#!ranking)
@@ -62,6 +62,7 @@
 - 95 [全國大賽](https://mahjong.pub/admin/#?cid=95&c_pw=qgds) [分組](https://mahjong.pub/?cid=95#!class) [統計](https://mahjong.pub/?cid=95#!ranking)
 - 97 [兰德索尔雀魂团体赛S1](https://mahjong.pub/admin/#?cid=97&c_pw=SS11@@) [分組](https://mahjong.pub/?cid=97#!class) [統計](https://mahjong.pub/?cid=97#!ranking)
 - 99 [2021年春断幺结社雀魂团体赛](https://mahjong.pub/admin/#?cid=99&c_pw=19@19@19) [分組](https://mahjong.pub/?cid=99#!class) [統計](https://mahjong.pub/?cid=99#!ranking)
+- 101 [彩羽杯邀请赛](https://mahjong.pub/admin/#?cid=101&c_pw=TSDM) [分組](https://mahjong.pub/?cid=101#!class) [統計](https://mahjong.pub/?cid=101#!ranking)
 - 102 [立直麻将同好会对外交流赛](https://mahjong.pub/admin/#?cid=102&c_pw=L@Z) [分組](https://mahjong.pub/?cid=102#!class) [統計](https://mahjong.pub/?cid=102#!ranking)
 - 103 [神社杯S7](https://mahjong.pub/admin/#?cid=103&c_pw=S@7) [分組](https://mahjong.pub/?cid=103#!class) [統計](https://mahjong.pub/?cid=103#!ranking)
 - 104 [第四届芳文杯](https://mahjong.pub/admin/#?cid=104&c_pw=fw@4) [分組](https://mahjong.pub/?cid=104#!class) [統計](https://mahjong.pub/?cid=104#!ranking)
@@ -78,3 +79,4 @@
 - 116 [東方·M5](https://mahjong.pub/admin/#?cid=116&c_pw=116116) [分組](https://mahjong.pub/?cid=116#!class) [統計](https://mahjong.pub/?cid=116#!ranking)
 - 117 [第一届“告告杯”](https://mahjong.pub/admin/#?cid=117&c_pw=117117) [分組](https://mahjong.pub/?cid=117#!class) [統計](https://mahjong.pub/?cid=117#!ranking)
 - 118 [第一屆西望杯立直麻将邀请赛](https://mahjong.pub/admin/#?cid=118&c_pw=648235) [分組](https://mahjong.pub/?cid=118#!class) [統計](https://mahjong.pub/?cid=118#!ranking)
+- 122 [第一届昴星团杯](https://mahjong.pub/admin.php?cid=122&amp;c_pw=maoxingtuan) [分組](https://mahjong.pub/?cid=122#!class) [統計](https://mahjong.pub/?cid=122#!ranking)
