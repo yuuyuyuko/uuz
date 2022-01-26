@@ -14,8 +14,7 @@
 - 123 [備用](https://mahjong.pub/admin.php?cid=123&amp;c_pw=qlzz) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
 - 124 [備用](https://mahjong.pub/admin.php?cid=124&amp;c_pw=mjzcb) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
 - 125 [第五届芳文杯](https://mahjong.pub/admin.php?cid=125&amp;c_pw=fwbfwb) [分組](https://mahjong.pub/?cid=125#!class) [統計](https://mahjong.pub/?cid=125#!ranking)
-- 126 [小芮杯](https://mahjong.pub/admin.php?cid=126&amp;c_pw=oighQtlHXw) [分組](https://mahjong.pub/?cid=126#!class) [統計](https://mahjong.pub/?cid=126#!ranking)
-
+- 126 [小芮杯团体赛](https://mahjong.pub/admin.php?cid=126&amp;c_pw=oighQtlHXw) [分組](https://mahjong.pub/?cid=126#!class) [統計](https://mahjong.pub/?cid=126#!ranking)
 
 已完結賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
