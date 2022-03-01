@@ -10,7 +10,7 @@
 - 111 [TSDM群內賽](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
 - 119 [神社s8](https://mahjong.pub/admin/#?cid=119&c_pw=sss8) [分組](https://mahjong.pub/?cid=119#!class) [統計](https://mahjong.pub/?cid=119#!ranking)
 - 123 [備用](https://mahjong.pub/admin.php?cid=123&amp;c_pw=qlzz) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
-- 124 [備用](https://mahjong.pub/admin.php?cid=124&amp;c_pw=mjzcb) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
+- 124 [全高賽熱身賽](https://mahjong.pub/admin.php?cid=124&amp;c_pw=tsdm) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
 
 已完結賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
