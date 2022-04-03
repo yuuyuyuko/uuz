@@ -4,11 +4,14 @@
 
 進行中賽事
 - 38 [雀魂友誼賽](https://mahjong.pub/admin.php?cid=38&amp;c_pw=yyds) [分組](https://mahjong.pub/?cid=38#!class) [統計](https://mahjong.pub/?cid=38#!ranking)
+- 81 [千里之子 团战季](https://mahjong.pub/admin/#?cid=81&c_pw=qlzz) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 - 111 [TSDM群內賽](https://mahjong.pub/admin/#?cid=111&c_pw=tsdm) [分組](https://mahjong.pub/?cid=111#!class) [統計](https://mahjong.pub/?cid=111#!ranking)
 - 123 [TSDM群內賽](https://mahjong.pub/admin.php?cid=123&amp;c_pw=tsdm) [分組](https://mahjong.pub/?cid=123#!class) [統計](https://mahjong.pub/?cid=123#!ranking)
 - 124 [全高賽熱身賽](https://mahjong.pub/admin.php?cid=124&amp;c_pw=tsdm) [分組](https://mahjong.pub/?cid=124#!class) [統計](https://mahjong.pub/?cid=124#!ranking)
 - 127 [第三届全国高校立直麻将网络团体赛](https://mahjong.pub/admin.php?cid=127&amp;c_pw=QGS003) [分組](https://mahjong.pub/?cid=127#!class) [統計](https://mahjong.pub/?cid=127#!ranking)
 - 128 [測試](https://mahjong.pub/admin.php?cid=128&amp;c_pw=128128) [分組](https://mahjong.pub/?cid=128#!class) [統計](https://mahjong.pub/?cid=128#!ranking)
+- 129 [第四届大河盃](https://mahjong.pub/admin.php?cid=129&amp;c_pw=129129) [分組](https://mahjong.pub/?cid=129#!class) [統計](https://mahjong.pub/?cid=129#!ranking)
+- 130 [第二届摸鱼联赛](https://mahjong.pub/admin.php?cid=130&amp;c_pw=130130) [分組](https://mahjong.pub/?cid=130#!class) [統計](https://mahjong.pub/?cid=130#!ranking)
 
 已完結賽事
 - 0 [友誼賽通用](https://mahjong.pub/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://mahjong.pub/?cid=0#!class) [統計](https://mahjong.pub/?cid=0#!ranking)
@@ -39,7 +42,6 @@
 - 78 [第二屆嚶嚶盃](https://mahjong.pub/admin/#?cid=78&c_pw=ying) [分組](https://mahjong.pub/?cid=78#!class) [統計](https://mahjong.pub/?cid=78#!ranking)
 - 79 [全国高校立直麻将网络团体赛](https://mahjong.pub/admin/#?cid=79&c_pw=gaoxiaotuanti) [分組](https://mahjong.pub/?cid=79#!class) [統計](https://mahjong.pub/?cid=79#!ranking)
 - 80 [第八届断幺结社团体赛](https://mahjong.pub/admin/#?cid=80&c_pw=duanyao@@) [分組](https://mahjong.pub/?cid=80#!class) [統計](https://mahjong.pub/?cid=80#!ranking)
-- 81 [千里之子 团战季](https://mahjong.pub/admin/#?cid=81&c_pw=qlzz) [分組](https://mahjong.pub/?cid=81#!class) [統計](https://mahjong.pub/?cid=81#!ranking)
 - 82 [第三届王座杯](https://mahjong.pub/admin/#?cid=82&c_pw=@3@wangzuo) [分組](https://mahjong.pub/?cid=82#!class) [統計](https://mahjong.pub/?cid=82#!ranking)
 - 83 [第七届英年杯祝仪赛](https://mahjong.pub/admin/#?cid=83&c_pw=@@7@@yingnian@@) [分組](https://mahjong.pub/?cid=83#!class) [統計](https://mahjong.pub/?cid=83#!ranking)
 - 84 [全国立直麻将网络联赛——全国大赛](https://mahjong.pub/admin/#?cid=84&c_pw=@@@qgds@@@) [分組](https://mahjong.pub/?cid=84#!class) [統計](https://mahjong.pub/?cid=84#!ranking)
