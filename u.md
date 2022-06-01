@@ -12,6 +12,10 @@
 - 129 [第四届大河盃](https://cdn.r-mj.com/admin.php?cid=129&amp;c_pw=129129) [分組](https://cdn.r-mj.com/?cid=129#!class) [統計](https://cdn.r-mj.com/?cid=129#!ranking)
 - 130 [第二届摸鱼联赛](https://cdn.r-mj.com/admin.php?cid=130&amp;c_pw=130130) [分組](https://cdn.r-mj.com/?cid=130#!class) [統計](https://cdn.r-mj.com/?cid=130#!ranking)
 - 131 [J.League](https://cdn.r-mj.com/admin.php?cid=131&amp;c_pw=131JL) [分組](https://cdn.r-mj.com/?cid=131#!class) [統計](https://cdn.r-mj.com/?cid=131#!ranking)
+- 132 [四校联合训练赛](https://cdn.r-mj.com/admin.php?cid=132&amp;c_pw=132-4) [分組](https://cdn.r-mj.com/?cid=132#!class) [統計](https://cdn.r-mj.com/?cid=132#!ranking)
+- 133 [全国立直麻将网络联赛TI5-主联赛](https://cdn.r-mj.com/admin.php?cid=133&amp;c_pw=saki) [分組](https://cdn.r-mj.com/?cid=133#!class) [統計](https://cdn.r-mj.com/?cid=133#!ranking)
+- 134 [全国立直麻将网络联赛TI5-次联赛](https://cdn.r-mj.com/admin.php?cid=134&amp;c_pw=saki) [分組](https://cdn.r-mj.com/?cid=134#!class) [統計](https://cdn.r-mj.com/?cid=134#!ranking)
+- 135 [神社S9](https://cdn.r-mj.com/admin.php?cid=135&amp;c_pw=sss9) [分組](https://cdn.r-mj.com/?cid=135#!class) [統計](https://cdn.r-mj.com/?cid=135#!ranking)
 
 已完結賽事
 - 0 [友誼賽通用](https://cdn.r-mj.com/admin.php?cid=0&amp;c_pw=yyyyyyy) [分組](https://cdn.r-mj.com/?cid=0#!class) [統計](https://cdn.r-mj.com/?cid=0#!ranking)
