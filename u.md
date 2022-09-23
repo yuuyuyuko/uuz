@@ -88,4 +88,4 @@
 - 137 [第四届西部高校立直麻将联赛](https://cdn.r-mj.com/admin.php?cid=137&amp;c_pw=west) [分組](https://cdn.r-mj.com/?cid=137#!class) [統計](https://cdn.r-mj.com/?cid=137#!ranking)
 - 139 [第三届“福州大学杯”立直麻将邀请赛](https://cdn.r-mj.com/admin.php?cid=139&amp;c_pw=fzdx) [分組](https://cdn.r-mj.com/?cid=139#!class) [統計](https://cdn.r-mj.com/?cid=139#!ranking)
 - 140 [第一届排球杯团体赛](https://cdn.r-mj.com/admin.php?cid=140&amp;c_pw=paiqiu) [分組](https://cdn.r-mj.com/?cid=140#!class) [統計](https://cdn.r-mj.com/?cid=140#!ranking)
-- 141 [第一届重庆高校立直麻将团体赛](https://cdn.r-mj.com/admin.php?cid=140&amp;c_pw=CHONGQING) [分組](https://cdn.r-mj.com/?cid=141#!class) [統計](https://cdn.r-mj.com/?cid=141#!ranking)
+- 141 [第一届重庆高校立直麻将团体赛](https://cdn.r-mj.com/admin.php?cid=141&amp;c_pw=CHONGQING) [分組](https://cdn.r-mj.com/?cid=141#!class) [統計](https://cdn.r-mj.com/?cid=141#!ranking)
