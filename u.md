@@ -4,10 +4,11 @@
 
 進行中賽事
 - 38 [雀魂友誼賽](https://cdn.r-mj.com/admin.php?cid=38&amp;c_pw=yyds) [分組](https://cdn.r-mj.com/?cid=38#!class) [統計](https://cdn.r-mj.com/?cid=38#!ranking)
-- 133 [全国立直麻将网络联赛TI6-主联赛](https://cdn.r-mj.com/admin.php?cid=133&amp;c_pw=saki) [分組](https://cdn.r-mj.com/?cid=133#!class) [統計](https://cdn.r-mj.com/?cid=133#!ranking)
-- 134 [全国立直麻将网络联赛TI6-次联赛](https://cdn.r-mj.com/admin.php?cid=134&amp;c_pw=saki) [分組](https://cdn.r-mj.com/?cid=134#!class) [統計](https://cdn.r-mj.com/?cid=134#!ranking)
+- 100 [安梨杯　TI1](https://cdn.r-mj.com/admin.php?cid=100&amp;c_pw=148480) [分組](https://cdn.r-mj.com/?cid=100#!class) [統計](https://cdn.r-mj.com/?cid=100#!ranking)
 
 已完結賽事
+- 149 [全国立直麻将网络联赛TI6-全国大赛](https://cdn.r-mj.com/admin.php?cid=149&amp;c_pw=123) [分組](https://cdn.r-mj.com/?cid=149#!class) [統計](https://cdn.r-mj.com/?cid=149#!ranking)
+- 148 [浪速杯·南京立直麻将高校赛](https://cdn.r-mj.com/admin.php?cid=148&amp;c_pw=LANGSU) [分組](https://cdn.r-mj.com/?cid=148#!class) [統計](https://cdn.r-mj.com/?cid=148#!ranking)
 - 147 [第一届落幕杯](https://cdn.r-mj.com/admin.php?cid=147&amp;c_pw=LUOMU) [分組](https://cdn.r-mj.com/?cid=147#!class) [統計](https://cdn.r-mj.com/?cid=147#!ranking)
 - 146 [第五届大河盃](https://cdn.r-mj.com/admin.php?cid=146&amp;c_pw=DAHE) [分組](https://cdn.r-mj.com/?cid=146#!class) [統計](https://cdn.r-mj.com/?cid=146#!ranking)
 - 145 [千里山toki杯](https://cdn.r-mj.com/admin.php?cid=145&amp;c_pw=TOKI) [分組](https://cdn.r-mj.com/?cid=145#!class) [統計](https://cdn.r-mj.com/?cid=145#!ranking)
@@ -20,6 +21,8 @@
 - 137 [第四届西部高校立直麻将联赛](https://cdn.r-mj.com/admin.php?cid=137&amp;c_pw=west) [分組](https://cdn.r-mj.com/?cid=137#!class) [統計](https://cdn.r-mj.com/?cid=137#!ranking)
 - 136 [第三届明美杯团体赛](https://cdn.r-mj.com/admin.php?cid=136&amp;c_pw=136136) [分組](https://cdn.r-mj.com/?cid=136#!class) [統計](https://cdn.r-mj.com/?cid=136#!ranking)
 - 135 [神社S9](https://cdn.r-mj.com/admin.php?cid=135&amp;c_pw=sss9) [分組](https://cdn.r-mj.com/?cid=135#!class) [統計](https://cdn.r-mj.com/?cid=135#!ranking)
+- 134 [全国立直麻将网络联赛TI6-次联赛](https://cdn.r-mj.com/admin.php?cid=134&amp;c_pw=saki) [分組](https://cdn.r-mj.com/?cid=134#!class) [統計](https://cdn.r-mj.com/?cid=134#!ranking)
+- 133 [全国立直麻将网络联赛TI6-主联赛](https://cdn.r-mj.com/admin.php?cid=133&amp;c_pw=saki) [分組](https://cdn.r-mj.com/?cid=133#!class) [統計](https://cdn.r-mj.com/?cid=133#!ranking)
 - 132 [四校联合训练赛](https://cdn.r-mj.com/admin.php?cid=132&amp;c_pw=132-4) [分組](https://cdn.r-mj.com/?cid=132#!class) [統計](https://cdn.r-mj.com/?cid=132#!ranking)
 - 131 [J.League](https://cdn.r-mj.com/admin.php?cid=131&amp;c_pw=131JL) [分組](https://cdn.r-mj.com/?cid=131#!class) [統計](https://cdn.r-mj.com/?cid=131#!ranking)
 - 130 [第二届摸鱼联赛](https://cdn.r-mj.com/admin.php?cid=130&amp;c_pw=130130) [分組](https://cdn.r-mj.com/?cid=130#!class) [統計](https://cdn.r-mj.com/?cid=130#!ranking)
@@ -51,7 +54,6 @@
 - 103 [神社杯S7](https://cdn.r-mj.com/admin/#?cid=103&c_pw=S@7) [分組](https://cdn.r-mj.com/?cid=103#!class) [統計](https://cdn.r-mj.com/?cid=103#!ranking)
 - 102 [立直麻将同好会对外交流赛](https://cdn.r-mj.com/admin/#?cid=102&c_pw=L@Z) [分組](https://cdn.r-mj.com/?cid=102#!class) [統計](https://cdn.r-mj.com/?cid=102#!ranking)
 - 101 [彩羽杯邀请赛](https://cdn.r-mj.com/admin/#?cid=101&c_pw=TSDM) [分組](https://cdn.r-mj.com/?cid=101#!class) [統計](https://cdn.r-mj.com/?cid=101#!ranking)
-- 100 [安梨杯　TI1](https://cdn.r-mj.com/admin.php?cid=100&amp;c_pw=148480) [分組](https://cdn.r-mj.com/?cid=100#!class) [統計](https://cdn.r-mj.com/?cid=100#!ranking)
 - 99 [2021年春断幺结社雀魂团体赛](https://cdn.r-mj.com/admin/#?cid=99&c_pw=19@19@19) [分組](https://cdn.r-mj.com/?cid=99#!class) [統計](https://cdn.r-mj.com/?cid=99#!ranking)
 - 97 [兰德索尔雀魂团体赛S1](https://cdn.r-mj.com/admin/#?cid=97&c_pw=SS11@@) [分組](https://cdn.r-mj.com/?cid=97#!class) [統計](https://cdn.r-mj.com/?cid=97#!ranking)
 - 95 [全國大賽](https://cdn.r-mj.com/admin/#?cid=95&c_pw=qgds) [分組](https://cdn.r-mj.com/?cid=95#!class) [統計](https://cdn.r-mj.com/?cid=95#!ranking)
