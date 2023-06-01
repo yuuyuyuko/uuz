@@ -3,10 +3,13 @@
 ### 常用鏈接  
 
 進行中賽事
+- 38 [雀魂友誼賽](https://cdn.r-mj.com/admin.php?cid=38&amp;c_pw=yyds) [分組](https://cdn.r-mj.com/?cid=38#!class) [統計](https://cdn.r-mj.com/?cid=38#!ranking)
 - 100 [安梨杯　TI1](https://cdn.r-mj.com/admin.php?cid=100&amp;c_pw=148480) [分組](https://cdn.r-mj.com/?cid=100#!class) [統計](https://cdn.r-mj.com/?cid=100#!ranking)
+- 158 [神社杯S10](https://cdn.r-mj.com/admin.php?cid=158&amp;c_pw=shensheS10) [分組](https://cdn.r-mj.com/?cid=158#!class) [統計](https://cdn.r-mj.com/?cid=158#!ranking)
 
 已完結賽事
-- 38 [雀魂友誼賽](https://cdn.r-mj.com/admin.php?cid=38&amp;c_pw=yyds) [分組](https://cdn.r-mj.com/?cid=38#!class) [統計](https://cdn.r-mj.com/?cid=38#!ranking)
+- 157 [第四届全高赛](https://cdn.r-mj.com/admin.php?cid=157&amp;c_pw=qgs004) [分組](https://cdn.r-mj.com/?cid=157#!class) [統計](https://cdn.r-mj.com/?cid=157#!ranking)
+- 156 [高校训练赛](https://cdn.r-mj.com/admin.php?cid=156&amp;c_pw=konnyaku0911) [分組](https://cdn.r-mj.com/?cid=156#!class) [統計](https://cdn.r-mj.com/?cid=156#!ranking)
 - 155 [第三届“联合杯”半庄赛场](https://cdn.r-mj.com/admin.php?cid=155&amp;c_pw=155155) [分組](https://cdn.r-mj.com/?cid=155#!class) [統計](https://cdn.r-mj.com/?cid=155#!ranking)
 - 154 [第三届“联合杯”东风赛场](https://cdn.r-mj.com/admin.php?cid=154&amp;c_pw=154154) [分組](https://cdn.r-mj.com/?cid=154#!class) [統計](https://cdn.r-mj.com/?cid=154#!ranking)
 - 153 [第八届兔兔哈杯](https://cdn.r-mj.com/admin.php?cid=153&amp;c_pw=153153153) [分組](https://cdn.r-mj.com/?cid=153#!class) [統計](https://cdn.r-mj.com/?cid=153#!ranking)
